@@ -1,9 +1,13 @@
 // Fonts
+//$base-font-family: "Open Sans" !default;
 $base-font-family: "Open Sans" !default;
-$reading-font-family: "Roboto Slab", "Noto Serif SC", "Noto Serif TC" !default;
-$headline-font-family: Roboto, "Noto Sans SC", "Noto Sans TC" !default;
+//$reading-font-family: "Roboto Slab", "Noto Serif SC", "Noto Serif TC" !default;
+$reading-font-family: "Noto Sans CJK JP" !default;
+//$headline-font-family: Roboto, "Noto Sans SC", "Noto Sans TC" !default;
+$headline-font-family: "Noto Sans CJK JP" !default;
 $code-font-family:  Inconsolata !default;
-$handwriting-font-family: "Dancing Script", "Ma Shan Zheng" !default;
+//$handwriting-font-family: "Dancing Script", "Ma Shan Zheng" !default;
+$handwriting-font-family: "Noto Sans CJK JP" !default;
 $base-font-size:    18px !default;
 $base-line-height:  1.5 !default;
 
