@@ -42,7 +42,9 @@
 .site-title {
   @include relative-font-size(1.625);
   font-family: $handwriting-font-family;
-  letter-spacing: -1px;
+  font-weight: bold;
+  text-decoration: underline;
+  /*letter-spacing: -1px;*/
   margin-bottom: 0;
   float: left;
 
@@ -128,7 +130,8 @@
   }
 
   .current-page {
-    text-decoration: line-through;
+    /* text-decoration: line-through; */
+    text-decoration: underline
   }
 
   @media screen and (min-width: $on-medium) {
