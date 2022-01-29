@@ -18,7 +18,11 @@
     <i class="far fa-user"></i>
   </a>
 
-  <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+  {% if page.lang == "ja" %}
+    <a class="site-title" rel="author" href="{{ "/" | prepend: page.lang | relative_url }}">{{ site.title | escape }}</a>
+  {% else %}
+    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+  {% endif %}
 
   {% if site.data.navigation %}
     <nav class="site-nav">
@@ -44,10 +48,26 @@
                 </div>
               </li>
             {% else %}
-              <li><a class="{% if page.url == nav.url %}current-page{% endif %}" href="{{ nav.url | relative_url }}">{{ nav.title | escape }}</a></li>
+              {% if page.lang == "ja" %}
+                <li><a class="{% if page.url == nav.url %}current-page{% endif %}" href="{{ nav.url | prepend: page.lang | relative_url }}">{{ nav.title | escape }}</a></li>
+              {% else %}
+                <li><a class="{% if page.url == nav.url %}current-page{% endif %}" href="{{ nav.url | relative_url }}">{{ nav.title | escape }}</a></li>
+              {% endif %}
             {% endif %}
           {%- endif -%}
         {%- endfor -%}
+        <li class="dropdown" href="#">
+          <a href="javascript:void(0)" class="dropbtn" style="font-size: 26px"><i class="fas fa-language"></i></a>
+          <div class="dropdown-content">
+            {% if page.lang == "ja" %}
+              <a href="{{ page.url | remove_first: 'ja/' | relative_url }}">English</a>
+              <a href="{{ page.url | relative_url }}">日本語</a>
+            {% else %}
+              <a href="{{ page.url | relative_url }}">English</a>
+              <a href="{{ page.url | prepend: 'ja' | relative_url }}">日本語</a>
+            {% endif %}
+          </div>
+        </li>
       </ul>
     </nav>
   {% endif %}
