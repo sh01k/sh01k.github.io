@@ -4,6 +4,9 @@
 - title: GitHub
   url: https://github.com/sh01k
   icon: fab fa-github
+- title: Speaker Deck
+  url: https://speakerdeck.com/sh01k
+  icon: fab fa-speaker-deck
 - title: ResearchGate
   url: https://www.researchgate.net/profile/Shoichi-Koyama-2
   icon: fab fa-researchgate
