@@ -4,18 +4,21 @@ title: Publications
 permalink: /publications/
 ---
 
+<!-- <script src='/assets/js/smooth_scroll.js' type='text/javascript' charset="utf-8"></script>
+<script src='/assets/js/back_to_top.js' type='text/javascript' charset="utf-8"></script> -->
+
 <script src="/assets/js/bibtex_js.js" type="text/javascript" charset="utf-8"></script>
 <bibtex src="/assets/js/koyama_en_js.bib"></bibtex>
 
 <style>
-    #bibtex_js_menu {font-size: 90%; margin: 3rem 0rem;}
+    #bibtex_js_menu {margin: 3rem 0rem;}
     ul#bibtex_js { font-size: 80%; margin-bottom: 0.5rem;}
     #award { color: #b21000 }
     [class="Shoichi Koyama"] {text-decoration: underline;}
 </style>
 
 <div id="bibtex_js_menu">
-<a href="#journal">Journal Papers</a> &#124; <a href="#article">Overview Papers</a> &#124; <a href="#int-conf">International Conferences</a> &#124; <a href="#talk">Talks</a> &#124; <a href="#demo">Demo</a> &#124; <a href="#disser">Dissertation</a>
+<a href="#journal">Journal Papers</a> &#124; <a href="#article">Articles</a> &#124; <a href="#int-conf">Conferences</a> &#124; <a href="#talk">Talks</a> &#124; <a href="#demo">Demo</a> &#124; <a href="#disser">Dissertation</a>
 </div>
 
 <h3 id="journal"> Journal papers </h3>
@@ -68,6 +71,5 @@ permalink: /publications/
     </div>
 </li></ul>
 </div>
-
 
 
