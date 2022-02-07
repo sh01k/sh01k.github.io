@@ -15,6 +15,9 @@ permalink: /publications/
     ul#bibtex_js { font-size: 80%; margin-bottom: 0.5rem;}
     #award { color: #b21000 }
     [class="Shoichi Koyama"] {text-decoration: underline;}
+    #page-top { position: fixed; bottom: 20px; right: 20px; font-size: 200%; }
+    #page-top a { display: block; background: #666; color: #fff; width: 60px; padding: 10px 0; text-align: center; text-decoration: none; border-radius: 10px; }
+    #page-top a:hover { background: #999; text-decoration: none; }
 </style>
 
 <div id="bibtex_js_menu">
