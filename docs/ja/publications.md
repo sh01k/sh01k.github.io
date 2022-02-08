@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Publications
-permalink: /publications/
+permalink: /ja/publications/
+lang: ja
 ---
 
 <script src="/assets/js/bibtex_js.js" type="text/javascript" charset="utf-8"></script>
-<bibtex src="/assets/js/koyama_en_js.bib"></bibtex>
+<bibtex src="/assets/js/koyama_ja_js.bib"></bibtex>
 
 <style>
     #bibtex_js_menu {margin: 3rem 0rem;}
@@ -16,30 +17,42 @@ permalink: /publications/
 </style>
 
 <div id="bibtex_js_menu">
-<a href="#journal">Journal Papers</a> &#124; <a href="#article">Articles</a> &#124; <a href="#int-conf">Conferences</a> &#124; <a href="#talk">Talks</a> &#124; <a href="#demo">Demo</a> &#124; <a href="#disser">Dissertation</a>
+<a href="#journal">原著論文</a> &#124; <a href="#book">書籍</a> &#124; <a href="#article">記事</a> &#124; <a href="#int-conf">国際会議</a> &#124; <a href="#dom-conf">国内会議</a> &#124; <a href="#talk">その他講演</a> &#124; <a href="#demo">展示/デモ</a> &#124; <a href="#disser">学位論文</a>
 </div>
 
-<h3 id="journal"> Journal papers </h3>
+<h3 id="journal"> 原著論文 </h3>
 <div class="bibtex_display" category="Journal Papers|Letters"></div>
 <div id="page-top"><a href="#bibtex_js_menu">&and; Top</a></div>
 
-<h3 id="article"> Overview / Tutorial Papers </h3>
+<h3 id="book"> 書籍 </h3>
+<div class="bibtex_display" category="Books"></div>
+<div id="page-top"><a href="#bibtex_js_menu">&and; Top</a></div>
+
+<h3 id="article"> 総説/解説記事 </h3>
 <div class="bibtex_display" category="Articles"></div>
 <div id="page-top"><a href="#bibtex_js_menu">&and; Top</a></div>
 
-<h3 id="int-conf"> International Conferences </h3>
+<h3 id="other"> その他記事 </h3>
+<div class="bibtex_display" category="Others"></div>
+<div id="page-top"><a href="#bibtex_js_menu">&and; Top</a></div>
+
+<h3 id="int-conf"> 国際会議 </h3>
 <div class="bibtex_display" category="International Conferences"></div>
 <div id="page-top"><a href="#bibtex_js_menu">&and; Top</a></div>
 
-<h3 id="talk"> Other Talks </h3>
+<h3 id="dom-conf"> 国内会議 </h3>
+<div class="bibtex_display" category="Domestic Conferences"></div>
+<div id="page-top"><a href="#bibtex_js_menu">&and; Top</a></div>
+
+<h3 id="talk"> その他講演 </h3>
 <div class="bibtex_display" category="Talks"></div>
 <div id="page-top"><a href="#bibtex_js_menu">&and; Top</a></div>
 
-<h3 id="demo"> Demo </h3>
+<h3 id="demo"> 展示/デモ </h3>
 <div class="bibtex_display" category="Demo"></div>
 <div id="page-top"><a href="#bibtex_js_menu">&and; Top</a></div>
 
-<h3 id="disser"> Dissertation </h3>
+<h3 id="disser"> 学位論文 </h3>
 <div class="bibtex_display" category="Dissertation"></div>
 <div id="page-top"><a href="#bibtex_js_menu">&and; Top</a></div>
 
@@ -71,10 +84,7 @@ permalink: /publications/
         <span class="if ppt"><a class="ppt" target="_blank"><i class="fas fa-file-powerpoint"></i></a></span> 
         <span class="if movie"><a class="movie" target="_blank"><i class="fas fa-video"></i></a></span> 
         <span class="if invite==1|2"><span id="award">[Invited]</span></span> 
-        <span class="if award_en"><span id="award">[<span class="award_en"></span>]</span></span>
+        <span class="if award_ja"><span id="award">[<span class="award_ja"></span>]</span></span>
     </div>
 </li></ul>
 </div>
-
-
-

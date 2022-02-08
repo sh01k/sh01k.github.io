@@ -3,6 +3,10 @@ layout: home
 lang: en
 ---
 
+<style>
+    .biography table, .biography td, .biography tr { border: 0; min-width: 150px; vertical-align: top; padding: 0.5rem 1rem;}
+</style>
+
 <h3>Shoichi Koyama, Ph.D.</h3>
 Lecturer<br />
 <a href="https://www.i.u-tokyo.ac.jp/edu/course/ipc/index_e.shtml" target="_blank" rel="noopener noreferrer">Department of Information Physics and Computing</a>,<br />
@@ -16,6 +20,7 @@ Engineering bldg. 6-242, 7-3-1 Hongo, Bunkyo-ku, Tokyo 113-8656, Japan <a href="
 <p>Acoustic signal processing, machine learning for audio, spatial audio</p>
 
 <h4>Professional experience</h4>
+<div class="biography">
 <table>
     <tbody>
     <tr>
@@ -24,7 +29,7 @@ Engineering bldg. 6-242, 7-3-1 Hongo, Bunkyo-ku, Tokyo 113-8656, Japan <a href="
     </tr>
     <tr>
     <td>2014.04 – 2018.03</td>
-    <td>Assistant Professor (Research Associate) at Graduate School of Information Science and Technology, the University of Tokyo</td>
+    <td>Research Associate at Graduate School of Information Science and Technology, the University of Tokyo</td>
     </tr>
     <tr>
     <td>2016.04 – 2018.03</td>
@@ -32,7 +37,7 @@ Engineering bldg. 6-242, 7-3-1 Hongo, Bunkyo-ku, Tokyo 113-8656, Japan <a href="
     </tr>
     <tr>
     <td>2018.04 –</td>
-    <td>Assistant Professor (Lecturer) at Graduate School of Information Science and Technology, the University of Tokyo</td>
+    <td>Lecturer at Graduate School of Information Science and Technology, the University of Tokyo</td>
     </tr>
     <tr>
     <td>2020.04 –</td>
@@ -41,8 +46,11 @@ Engineering bldg. 6-242, 7-3-1 Hongo, Bunkyo-ku, Tokyo 113-8656, Japan <a href="
     </tr>
     </tbody>
 </table>
+<p>Member of <a href="https://www.ieee.org/" target="_blank" rel="noopener noreferrer">IEEE</a>, <a href="https://acousticalsociety.org/" target="_blank" rel="noopener noreferrer">Acoustical Society of America (ASA)</a>, <a href="https://aes2.org/" target="_blank" rel="noopener noreferrer">Audio Engineering Society (AES)</a>, <a href="https://www.ieice.org/eng_r/index.html" target="_blank" rel="noopener noreferrer">IEICE</a>, <a href="https://acoustics.jp/en/" target="_blank" rel="noopener noreferrer">Acoustical Society of Japan (ASJ)</a></p>
+</div>
 
 <h4>Education</h4>
+<div class="biography">
 <table>
     <tbody>
     <tr>
@@ -61,4 +69,15 @@ Engineering bldg. 6-242, 7-3-1 Hongo, Bunkyo-ku, Tokyo 113-8656, Japan <a href="
     </tr>
     </tbody>
 </table>
+</div>
+
+<h4>Awards</h4>
+- The Activity Contribution Award, ASJ, 2022. <a href="https://acoustics.jp/awards/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
+- The Service Award (Operation of Technical Committee on Engineering Acoustics), IEICE ESS, 2021. <a href="https://www.ieice.org/ess/ESS/ESS_awardee.html" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
+- The Research Award, Funai Foundation for Information Technology, 2018. <a href="https://www.funaifoundation.jp/grantees/young_awardees_up_to_now_17.html" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
+- The Telecom System Technology Award, the Telecommunication Advancement Foundation, 2015. <a href="https://www.taf.or.jp/award/telesys/2014.html" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
+- The Itakura Prize Innovative Young Researcher Award, ASJ, 2015. <a href="https://acoustics.jp/awards/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
+- The Awaya Prize Young Researcher Award, ASJ, 2011. <a href="https://acoustics.jp/awards/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
+- The Best Young Researcher Paper Award, IEEJ Sensors and Micromachines Society, 2010. 
+- The Young Researcher Award, SICE Measurement Division, 2009. <a href="https://www.sice.or.jp/org/s_forum/prize.html" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
 

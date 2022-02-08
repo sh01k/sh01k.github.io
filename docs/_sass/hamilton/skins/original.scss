@@ -10,8 +10,8 @@ $border-color-dark:     darken($border-color, 25%) !default;
 $link-base-color:       #003be4 !default; //cc00aa
 $link-visited-color:    $link-base-color !default;
 
-$table-text-color:      lighten($text-color, 18%) !default;
-$table-zebra-color:     mix($background-color, $border-color, 90%) !default;
+$table-text-color:      #333 !default; //lighten($text-color, 18%) !default;
+$table-zebra-color:     $background-color !default; //mix($background-color, $border-color, 90%) !default;
 $table-header-bg-color: mix($background-color, $border-color, 80%) !default;
 $table-header-border:   $border-color !default;
 $table-border-color:    lighten($border-color, 20%) !default;
