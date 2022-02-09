@@ -11,7 +11,7 @@ $(function () {
 	topBtn.click(function () {
 		$('body,html').animate({
 			scrollTop: 0
-		}, 500);
+		}, 300);
 		return false;
 	});
 	});

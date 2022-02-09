@@ -49,7 +49,8 @@
               </li>
             {% else %}
               {% if page.lang == "ja" %}
-                <li><a class="{% if page.url == nav.url %}current-page{% endif %}" href="{{ nav.url | prepend: page.lang | relative_url }}">{{ nav.title | escape }}</a></li>
+                {% assign nav_url_ja = nav.url | prepend: page.lang | relative_url %}
+                <li><a class="{% if page.url == nav_url_ja %}current-page{% endif %}" href="{{ nav_url_ja }}">{{ nav.title | escape }}</a></li>
               {% else %}
                 <li><a class="{% if page.url == nav.url %}current-page{% endif %}" href="{{ nav.url | relative_url }}">{{ nav.title | escape }}</a></li>
               {% endif %}
