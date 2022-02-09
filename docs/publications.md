@@ -13,7 +13,6 @@ lang: en
     ul#bibtex_js { font-size: 80%; margin-bottom: 0.5rem;}
     #award { color: #d14 }
     [class="Shoichi Koyama"] {text-decoration: underline;}
-    #page-top { float:right; font-size: 80%; }
 </style>
 
 <div id="bibtex_js_menu">
@@ -22,27 +21,21 @@ lang: en
 
 <h3 id="journal"> Journal papers </h3>
 <div class="bibtex_display" category="Journal Papers|Letters"></div>
-<div id="page-top"><a href="#bibtex_js_menu">&and; Top</a></div>
 
 <h3 id="article"> Overview / Tutorial Papers </h3>
 <div class="bibtex_display" category="Articles"></div>
-<div id="page-top"><a href="#bibtex_js_menu">&and; Top</a></div>
 
 <h3 id="int-conf"> International Conferences </h3>
 <div class="bibtex_display" category="International Conferences"></div>
-<div id="page-top"><a href="#bibtex_js_menu">&and; Top</a></div>
 
 <h3 id="talk"> Other Talks </h3>
 <div class="bibtex_display" category="Talks"></div>
-<div id="page-top"><a href="#bibtex_js_menu">&and; Top</a></div>
 
 <h3 id="demo"> Demo </h3>
 <div class="bibtex_display" category="Demo"></div>
-<div id="page-top"><a href="#bibtex_js_menu">&and; Top</a></div>
 
 <h3 id="disser"> Dissertation </h3>
 <div class="bibtex_display" category="Dissertation"></div>
-<div id="page-top"><a href="#bibtex_js_menu">&and; Top</a></div>
 
 <div class="bibtex_structure">
     <div class="sort year" extra="DESC number">

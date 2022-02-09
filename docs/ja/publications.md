@@ -13,7 +13,6 @@ lang: ja
     ul#bibtex_js { font-size: 80%; margin-bottom: 0.5rem;}
     #award { color: #d14 }
     [class="Shoichi Koyama"] {text-decoration: underline;}
-    #page-top { float:right; font-size: 80%; }
 </style>
 
 <div id="bibtex_js_menu">
@@ -22,39 +21,30 @@ lang: ja
 
 <h3 id="journal"> 原著論文 </h3>
 <div class="bibtex_display" category="Journal Papers|Letters"></div>
-<div id="page-top"><a href="#bibtex_js_menu">&and; Top</a></div>
 
 <h3 id="book"> 書籍 </h3>
 <div class="bibtex_display" category="Books"></div>
-<div id="page-top"><a href="#bibtex_js_menu">&and; Top</a></div>
 
 <h3 id="article"> 総説/解説記事 </h3>
 <div class="bibtex_display" category="Articles"></div>
-<div id="page-top"><a href="#bibtex_js_menu">&and; Top</a></div>
 
 <h3 id="other"> その他記事 </h3>
 <div class="bibtex_display" category="Others"></div>
-<div id="page-top"><a href="#bibtex_js_menu">&and; Top</a></div>
 
 <h3 id="int-conf"> 国際会議 </h3>
 <div class="bibtex_display" category="International Conferences"></div>
-<div id="page-top"><a href="#bibtex_js_menu">&and; Top</a></div>
 
 <h3 id="dom-conf"> 国内会議 </h3>
 <div class="bibtex_display" category="Domestic Conferences"></div>
-<div id="page-top"><a href="#bibtex_js_menu">&and; Top</a></div>
 
 <h3 id="talk"> その他講演 </h3>
 <div class="bibtex_display" category="Talks"></div>
-<div id="page-top"><a href="#bibtex_js_menu">&and; Top</a></div>
 
 <h3 id="demo"> 展示/デモ </h3>
 <div class="bibtex_display" category="Demo"></div>
-<div id="page-top"><a href="#bibtex_js_menu">&and; Top</a></div>
 
 <h3 id="disser"> 学位論文 </h3>
 <div class="bibtex_display" category="Dissertation"></div>
-<div id="page-top"><a href="#bibtex_js_menu">&and; Top</a></div>
 
 <div class="bibtex_structure">
     <div class="sort year" extra="DESC number">

@@ -1,13 +1,13 @@
 $(function () {
 	var topBtn = $('#page-top');
-	topBtn.hide();
-	$(window).scroll(function () {
+	//topBtn.hide();
+	/*$(window).scroll(function () {
 		if ($(this).scrollTop() > 500) {
 			topBtn.fadeIn();
 		} else {
 			topBtn.fadeOut();
 		}
-	});
+	});*/
 	topBtn.click(function () {
 		$('body,html').animate({
 			scrollTop: 0
