@@ -3,7 +3,6 @@ author: Shoichi Koyama
 avatar: /profile.png
 skin: original
 subscribe: false
-math: true
 
 plugins:
   - jekyll-seo-tag
