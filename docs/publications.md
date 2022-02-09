@@ -2,6 +2,7 @@
 layout: page
 title: Publications
 permalink: /publications/
+lang: en
 ---
 
 <script src="/assets/js/bibtex_js.js" type="text/javascript" charset="utf-8"></script>
