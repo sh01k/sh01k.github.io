@@ -58,7 +58,7 @@ MATLAB scripts for source-location-informed sound field recording and reproducti
 
 MATLAB scripts for simulating sound field recording and reproduction using wave field reconstruction (WFR) filter.
 
-<br /><br />
+<br />
 
 - **Code:** [https://github.com/sh01k/WFRfilter](https://github.com/sh01k/WFRfilter)
 - **Paper:** [https://doi.org/10.1109/TASL.2012.2229985](https://doi.org/10.1109/TASL.2012.2229985)
@@ -68,6 +68,8 @@ MATLAB scripts for simulating sound field recording and reproduction using wave 
 <img id="codes" src="/img/tsp.png" alt="TSP" width=200px>
 
 A python CLI script for measuring an acoustic impulse response with time-stretched pulse (TSP) / swept-sine signal.
+
+<br />
 
 - **Code:** [https://github.com/sh01k/imp_tsp](https://github.com/sh01k/imp_tsp)
 
