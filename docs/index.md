@@ -14,10 +14,10 @@ Lecturer<br />
 Engineering bldg. 6-242, 7-3-1 Hongo, Bunkyo-ku, Tokyo 113-8656, Japan <a href="https://www.google.co.jp/maps/place/%E3%80%92113-8654+T%C5%8Dky%C5%8D-to,+Bunky%C5%8D-ku,+Hong%C5%8D,+The+University+of+Tokyo,+7+Chome%E2%88%923+%E5%B7%A5%E5%AD%A6%E9%83%A8%EF%BC%96%E5%8F%B7%E9%A4%A8/@35.7141215,139.7611171,17z/data=!3m1!4b1!4m2!3m1!1s0x60188c31b6a0c8eb:0xb76f6e1eaadfecf6?hl=en" target="_blank" rel="noopener noreferrer"><i class="fas fa-map-marked-alt"></i></a><br />
 <i class="fas fa-envelope"></i> <span style="color: #003be4">koyama.shoichi<i class="fas fa-at"></i>ieee.org</span><br />
 
-<p>Shoichi Koyama received the B.E., M.S, and Ph.D. degrees from the University of Tokyo, Tokyo, Japan, in 2007, 2009, and 2014, respectively. He joined Nippon Telegraph and Telephone (NTT) Corporation as a Researcher in 2009. He moved to the University of Tokyo in 2014 and is currently Lecturer since 2018. From 2016 to 2018, he was also a visiting researcher at Paris Diderot University (Paris 7), Institut Langevin, Paris, France. His research interests include audio signal processing, acoustic inverse problems, and spatial audio. (Full CV: <a href="" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-alt"></i></a>)</p>
+<p>Shoichi Koyama received the B.E., M.S, and Ph.D. degrees from the University of Tokyo, Tokyo, Japan, in 2007, 2009, and 2014, respectively. He joined Nippon Telegraph and Telephone (NTT) Corporation as a Researcher in 2009. He moved to the University of Tokyo in 2014 and is currently Lecturer since 2018. From 2016 to 2018, he was also a visiting researcher at Paris Diderot University (Paris 7), Institut Langevin, Paris, France. His research interests include audio signal processing / machine learning, acoustic inverse problems, and spatial audio. (Full CV: <a href="/CV_shoichi-koyama.pdf" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-alt"></i></a>)</p>
 
 <h4>Research topics</h4>
-<p>Acoustic signal processing, machine learning for audio, spatial audio</p>
+<p>Acoustic signal processing, machine learning for audio, array processing, spatial audio</p>
 
 <h4>Professional experience</h4>
 <div class="biography">
