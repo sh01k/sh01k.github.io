@@ -59,7 +59,7 @@ lang: ja
         <span class="author"></span>,
         <span class="if title">"<span class="title"></span>," </span>
         <span class="if journal"><em><span class="journal"></span></em>, </span>
-        <span class="if booktitle"><em><span class="booktitle"></span></em>, </span>
+        <span class="if booktitle">in <em><span class="booktitle"></span></em>, </span>
         <span class="if howpublished"><em><span class="howpublished"></span></em>, </span>
         <span class="if school"><em><span class="school"></span></em>, </span>
         <span class="if pages">pp. <span class="pages"></span>, </span>
