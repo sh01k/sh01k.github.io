@@ -6,7 +6,7 @@ lang: ja
 ---
 
 <style>
-    #codes { display: flex; gap: 1rem; padding: 0.2rem 1rem 1rem 1rem; }
+    #codes { display: flex; align-items: flex-start; gap: 1rem; padding: 0.2rem 1rem 1rem 1rem; }
     img#codes { vertical-align: top; width: 30%; height: auto;}
 </style>
 
