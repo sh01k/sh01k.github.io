@@ -7,19 +7,20 @@ lang: en
     .biography table, .biography td, .biography tr { border: 0; min-width: 150px; vertical-align: top; padding: 0.5rem 1rem;}
 </style>
 
-<h3>Shoichi Koyama, Ph.D.</h3>
-Lecturer<br />
-<a href="https://www.i.u-tokyo.ac.jp/edu/course/ipc/index_e.shtml" target="_blank" rel="noopener noreferrer">Department of Information Physics and Computing</a>,<br />
-<a href="https://www.i.u-tokyo.ac.jp/index_e.shtml" target="_blank" rel="noopener noreferrer">Graduate School of Information Science and Technology</a>, <a href="https://www.u-tokyo.ac.jp/en/" target="_blank" rel="noopener noreferrer">the University of Tokyo</a><br />
+## Shoichi Koyama, Ph.D.
+*Lecturer*<br />
+Department of Information Physics and Computing <a href="https://www.i.u-tokyo.ac.jp/edu/course/ipc/index_e.shtml" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a> (System #1 lab <a href="https://www.sp.ipc.i.u-tokyo.ac.jp/index-en" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>), <br />
+Graduate School of Information Science and Technology <a href="https://www.i.u-tokyo.ac.jp/index_e.shtml" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>, <br />
+The University of Tokyo <a href="https://www.u-tokyo.ac.jp/en/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a><br />
 Engineering bldg. 6-242, 7-3-1 Hongo, Bunkyo-ku, Tokyo 113-8656, Japan <a href="https://www.google.co.jp/maps/place/%E3%80%92113-8654+T%C5%8Dky%C5%8D-to,+Bunky%C5%8D-ku,+Hong%C5%8D,+The+University+of+Tokyo,+7+Chome%E2%88%923+%E5%B7%A5%E5%AD%A6%E9%83%A8%EF%BC%96%E5%8F%B7%E9%A4%A8/@35.7141215,139.7611171,17z/data=!3m1!4b1!4m2!3m1!1s0x60188c31b6a0c8eb:0xb76f6e1eaadfecf6?hl=en" target="_blank" rel="noopener noreferrer"><i class="fas fa-map-marked-alt"></i></a><br />
 <i class="fas fa-envelope"></i> <span style="color: #003be4">koyama.shoichi<i class="fas fa-at"></i>ieee.org</span><br />
 
 <p>Shoichi Koyama received the B.E., M.S, and Ph.D. degrees from the University of Tokyo, Tokyo, Japan, in 2007, 2009, and 2014, respectively. He joined Nippon Telegraph and Telephone (NTT) Corporation as a Researcher in 2009. He moved to the University of Tokyo in 2014 and is currently Lecturer since 2018. From 2016 to 2018, he was also a visiting researcher at Paris Diderot University (Paris 7), Institut Langevin, Paris, France. His research interests include audio signal processing / machine learning, acoustic inverse problems, and spatial audio. (Full CV: <a href="/CV_shoichi-koyama.pdf" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-alt"></i></a>)</p>
 
-<h4>Research topics</h4>
-<p>Acoustic signal processing, machine learning for audio, array processing, spatial audio</p>
+#### Research topics
+<p>Acoustic signal processing, machine learning for audio, microphone and loudspeaker array processing, spatial audio</p>
 
-<h4>Professional experience</h4>
+#### Professional experience
 <div class="biography">
 <table>
     <tbody>
@@ -49,7 +50,7 @@ Engineering bldg. 6-242, 7-3-1 Hongo, Bunkyo-ku, Tokyo 113-8656, Japan <a href="
 <p>Member of <a href="https://www.ieee.org/" target="_blank" rel="noopener noreferrer">IEEE</a>, <a href="https://acousticalsociety.org/" target="_blank" rel="noopener noreferrer">Acoustical Society of America (ASA)</a>, <a href="https://aes2.org/" target="_blank" rel="noopener noreferrer">Audio Engineering Society (AES)</a>, <a href="https://www.ieice.org/eng_r/index.html" target="_blank" rel="noopener noreferrer">IEICE</a>, <a href="https://acoustics.jp/en/" target="_blank" rel="noopener noreferrer">Acoustical Society of Japan (ASJ)</a></p>
 </div>
 
-<h4>Education</h4>
+#### Education
 <div class="biography">
 <table>
     <tbody>
@@ -71,7 +72,7 @@ Engineering bldg. 6-242, 7-3-1 Hongo, Bunkyo-ku, Tokyo 113-8656, Japan <a href="
 </table>
 </div>
 
-<h4>Awards</h4>
+#### Awards
 - The Activity Contribution Award, ASJ, 2022. <a href="https://acoustics.jp/awards/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
 - The Service Award (Operation of Technical Committee on Engineering Acoustics), IEICE ESS, 2021. <a href="https://www.ieice.org/ess/ESS/ESS_awardee.html" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
 - The Research Award, Funai Foundation for Information Technology, 2018. <a href="https://www.funaifoundation.jp/grantees/young_awardees_up_to_now_17.html" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>

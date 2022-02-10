@@ -7,17 +7,19 @@ lang: ja
     .biography table, .biography td, .biography tr { border: 0; min-width: 150px; vertical-align: top; padding: 0.4rem 1rem;}
 </style>
 
-<h3>小山 翔一 (Shoichi Koyama), Ph.D.</h3>
+## 小山 翔一 (Shoichi Koyama), Ph.D.
 
-<a href="https://www.u-tokyo.ac.jp/" target="_blank" rel="noopener noreferrer">東京大学</a> <a href="https://www.i.u-tokyo.ac.jp/" target="_blank" rel="noopener noreferrer">大学院情報理工学系研究科</a> <a href="https://www.i.u-tokyo.ac.jp/edu/course/ipc/" target="_blank" rel="noopener noreferrer">システム情報学専攻</a> 講師<br />
+東京大学 <a href="https://www.u-tokyo.ac.jp/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a> 大学院情報理工学系研究科 <a href="https://www.i.u-tokyo.ac.jp/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a> <br />
+システム情報学専攻 <a href="https://www.i.u-tokyo.ac.jp/edu/course/ipc/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a> (第一研究室 <a href="https://www.sp.ipc.i.u-tokyo.ac.jp/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>) 
+講師<br />
 〒113-8656 東京都文京区本郷7-3-1 工学部6号館242号室 <a href="https://www.google.co.jp/maps/place/%E3%80%92113-8654+T%C5%8Dky%C5%8D-to,+Bunky%C5%8D-ku,+Hong%C5%8D,+The+University+of+Tokyo,+7+Chome%E2%88%923+%E5%B7%A5%E5%AD%A6%E9%83%A8%EF%BC%96%E5%8F%B7%E9%A4%A8/@35.7141215,139.7611171,17z/data=!3m1!4b1!4m2!3m1!1s0x60188c31b6a0c8eb:0xb76f6e1eaadfecf6?hl=en" target="_blank" rel="noopener noreferrer"><i class="fas fa-map-marked-alt"></i></a><br />
 <i class="fas fa-envelope"></i> <span style="color: #003be4">koyama.shoichi<i class="fas fa-at"></i>ieee.org</span><br />
 
-<h4>研究内容</h4>
+#### 研究内容
 
 <p>音響信号処理, マイク・スピーカアレイ処理, 音メディアのための機械学習，空間音響</p>
 
-<h4>略歴</h4>
+#### 略歴
 
 <div class="biography">
 <table>
@@ -79,7 +81,7 @@ lang: ja
 <p>Member of <a href="https://www.ieee.org/" target="_blank" rel="noopener noreferrer">IEEE</a>, <a href="https://acousticalsociety.org/" target="_blank" rel="noopener noreferrer">Acoustical Society of America (ASA)</a>, <a href="https://aes2.org/" target="_blank" rel="noopener noreferrer">Audio Engineering Society (AES)</a>, <a href="https://www.ieice.org/eng_r/index.html" target="_blank" rel="noopener noreferrer">IEICE</a>, <a href="https://acoustics.jp/en/" target="_blank" rel="noopener noreferrer">Acoustical Society of Japan (ASJ)</a></p>
 </div>
 
-<h4>受賞</h4>
+#### 受賞
 
 - 日本音響学会, 学会活動貢献賞, 2022. <a href="https://acoustics.jp/awards/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
 - 電子情報通信学会, 基礎・境界ソサイエティ 貢献賞 (研究専門委員会運営), 2021. <a href="https://www.ieice.org/ess/ESS/ESS_awardee.html" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
@@ -90,7 +92,7 @@ lang: ja
 - 電気学会, センサ・マイクロマシン部門 奨励論文賞, 2010. 
 - 計測自動制御学会, 計測部門 研究技術奨励賞, 2009. <a href="https://www.sice.or.jp/org/s_forum/prize.html" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
 
-<h4>外部資金</h4>
+#### 外部資金
 
 **研究代表者**
 - 2022-2024年度 国立研究開発法人科学技術振興機構 創発的研究支援事業 <br />
