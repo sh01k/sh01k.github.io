@@ -13,6 +13,7 @@ lang: ja
     ul#bibtex_js { font-size: 80%; margin-bottom: 0.5rem;}
     #award { color: #d14 }
     [class="Shoichi Koyama"] {text-decoration: underline;}
+    [class="小山 翔一"] {text-decoration: underline;}
 </style>
 
 <div id="bibtex_js_menu">
