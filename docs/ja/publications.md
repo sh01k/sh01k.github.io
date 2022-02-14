@@ -63,6 +63,8 @@ lang: ja
         <span class="if booktitle">in <em><span class="booktitle"></span></em>, </span>
         <span class="if howpublished"><em><span class="howpublished"></span></em>, </span>
         <span class="if school"><em><span class="school"></span></em>, </span>
+        <span class="if volume">vol. <span class="volume"></span>, </span>
+        <span class="if number">no. <span class="number"></span>, </span>
         <span class="if pages">pp. <span class="pages"></span>, </span>
         <span class="if address"><span class="address"></span>, </span>
         <span class="if month"><span class="month"></span>, </span>
