@@ -23,6 +23,9 @@ lang: ja
     - 第2回 信号処理の基礎 (2) [<i class="fas fa-file-powerpoint"></i>](https://sp.ipc.i.u-tokyo.ac.jp/~koyama/teaching/modern_eng_2021/modern_eng_day2.pdf)
     - 第3回 信号処理の基礎 (3) [<i class="fas fa-file-powerpoint"></i>](https://sp.ipc.i.u-tokyo.ac.jp/~koyama/teaching/modern_eng_2021/modern_eng_day3.pdf)
 
+- **先端音情報科学セミナー**（東北大学 電気通信研究所）
+    - Sound Field Analysis and Synthesis: Theoretical Advances and Applications to Spatial Audio Reproduction [<i class="fas fa-file-powerpoint"></i>](https://sp.ipc.i.u-tokyo.ac.jp/~koyama/teaching/tohoku_u/tohoku_u_koyama_2021.pdf)
+
 **Sセメスター**
 
 - **応用音響学**（学部4年）
@@ -58,7 +61,7 @@ lang: ja
     - 第3回 信号処理の基礎 (3)
 
 - **先端音情報科学セミナー**（東北大学 電気通信研究所）
-    - 空間音響における収録と再現 講義資料
+    - 空間音響における収録と再現 
 
 **Sセメスター**
 
