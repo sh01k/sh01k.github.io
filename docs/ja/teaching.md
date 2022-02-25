@@ -14,8 +14,8 @@ lang: ja
     - 第2回 信号処理における最適化法 / Optimization in Signal Processing [<i class="fas fa-file-powerpoint"></i>](https://sp.ipc.i.u-tokyo.ac.jp/~koyama/teaching/adv_acoust_2021/adv_acoust_day2.pdf)
     - 第3回 スパースモデリング / Sparse Modeling [<i class="fas fa-file-powerpoint"></i>](https://sp.ipc.i.u-tokyo.ac.jp/~koyama/teaching/adv_acoust_2021/adv_acoust_day3.pdf)
     - 第4回 アレイ信号処理 / Array Signal Processing [<i class="fas fa-file-powerpoint"></i>](https://sp.ipc.i.u-tokyo.ac.jp/~koyama/teaching/adv_acoust_2021/adv_acoust_day4.pdf)
-    - 第5回 波動場のモデリング / Wavefield Modeling [<i class="fas fa-file-powerpoint"></i>](https://sp.ipc.i.u-tokyo.ac.jp/~koyama/teaching/adv_acoust_2021/adv_acoust_day1.pdf)
-    - 第6回 空間音響の基礎 / Basics of Spatial Audio [<i class="fas fa-file-powerpoint"></i>](https://sp.ipc.i.u-tokyo.ac.jp/~koyama/teaching/adv_acoust_2021/adv_acoust_day5.pdf)
+    - 第5回 波動場のモデリング / Wavefield Modeling [<i class="fas fa-file-powerpoint"></i>](https://sp.ipc.i.u-tokyo.ac.jp/~koyama/teaching/adv_acoust_2021/adv_acoust_day5.pdf)
+    - 第6回 空間音響の基礎 / Basics of Spatial Audio [<i class="fas fa-file-powerpoint"></i>](https://sp.ipc.i.u-tokyo.ac.jp/~koyama/teaching/adv_acoust_2021/adv_acoust_day6.pdf)
     - 第8回 音場の分析と合成 / Sound Field Analysis and Synthesis [<i class="fas fa-file-powerpoint"></i>](https://sp.ipc.i.u-tokyo.ac.jp/~koyama/teaching/adv_acoust_2021/adv_acoust_day8.pdf)
 
 - **現代工学基礎I 物理情報システム工学**（学部1,2年）
