@@ -13,7 +13,7 @@ lang: ja
 システム情報学専攻 <a href="https://www.i.u-tokyo.ac.jp/edu/course/ipc/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a> (第一研究室 <a href="https://www.sp.ipc.i.u-tokyo.ac.jp/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>) 
 講師<br />
 〒113-8656 東京都文京区本郷7-3-1 工学部6号館242号室 <a href="https://www.google.co.jp/maps/place/%E3%80%92113-8654+T%C5%8Dky%C5%8D-to,+Bunky%C5%8D-ku,+Hong%C5%8D,+The+University+of+Tokyo,+7+Chome%E2%88%923+%E5%B7%A5%E5%AD%A6%E9%83%A8%EF%BC%96%E5%8F%B7%E9%A4%A8/@35.7141215,139.7611171,17z/data=!3m1!4b1!4m2!3m1!1s0x60188c31b6a0c8eb:0xb76f6e1eaadfecf6?hl=en" target="_blank" rel="noopener noreferrer"><i class="fas fa-map-marked-alt"></i></a><br />
-<i class="fas fa-envelope"></i> <span style="color: #003be4">koyama.shoichi<i class="fas fa-at"></i>ieee.org</span><br />
+<span style="color: #003be4"><i class="fas fa-envelope"></i> koyama.shoichi<i class="fas fa-at"></i>ieee.org</span><br />
 
 #### 研究内容
 
@@ -95,6 +95,8 @@ lang: ja
 #### 外部資金
 
 **研究代表者**
+- 2022-2025年度 日本学術振興会 科学研究費補助金, 基盤研究(B) <br />
+    “高解像度音空間解析のためのデータ駆動型計測技術とその応用”
 - 2022-2024年度 国立研究開発法人科学技術振興機構 創発的研究支援事業 <br />
     “音の空間的制御とその応用展開” <a href="https://www.jst.go.jp/souhatsu/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
 - 2018-2020年度 平成30年度 東京大学卓越研究員 <br />
