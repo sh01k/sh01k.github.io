@@ -12,5 +12,5 @@ Our main research topic is “inverse problems for acoustic field” and “sign
 
 **Signal processing for sound field recording, transmission, and reproduction:** We deal with a broad range of problems for sound field recording, transmission, and reproduction. By using these methodologies, we develop new systems for telecommunication, virtual reality, and so on.
 
-<script async class="speakerdeck-embed" data-id="21ad362bd42341a79adcae1062b7f00d" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="ec7d2e4282a1433bb7c49449a5d4a436" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 

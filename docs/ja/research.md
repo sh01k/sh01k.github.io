@@ -12,4 +12,4 @@ lang: ja
 
 **音場の記録・伝送・再生のための信号処理:** 音場の記録、伝送、再生に関わる諸問題を基本原理から応用まで広く扱い、遠隔コミュニケーションやバーチャルリアリティなどを目的とした新しいシステムを、これらの方法論に基づいて実現する。
 
-<script async class="speakerdeck-embed" data-id="f85c2e8d842a46aab29411f56a15c402" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="9b4360a920d24c028bc059703c4a1dc8" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
