@@ -44,6 +44,7 @@ lang: ja
 <h4>References</h4>
 <ul id="projects">
 <li>N. Iijima, S. Koyama, and H. Saruwatari, "Binaural Rendering from Microphone Array Signals of Arbitrary Geometry," <em>J. Acoust. Soc. Amer.</em>, vol. 150, no. 4, pp. 2479-2491, 2021. <a href="https://doi.org/10.1121/10.0006538" target="_blank"><i class="fas fa-external-link-alt"></i></a></li>
+<li>N. Ueno, S. Koyama, and H. Saruwatari, "Sound Field Recording Using Distributed Microphones Based on Harmonic Analysis of Infinite Order," <em>IEEE Signal Process. Lett.</em>, vol. 25, no. 1, pp. 135-139, 2018.  <a href="https://doi.org/10.1109/LSP.2017.2775242" target="_blank"><i class="fas fa-external-link-alt"></i></a></li>
 </ul>
 </div>
 
@@ -56,6 +57,7 @@ lang: ja
 <h4>References</h4>
 <ul id="projects">
 <li>S. Koyama, J. Brunnström, H. Ito, N. Ueno, and H. Saruwatari, "Spatial Active Noise Control Based on Kernel Interpolation of Sound Field," <em>IEEE/ACM Trans. Audio, Speech, Lang. Process.</em>, vol. 29, pp. 3052-3063, 2021. <a href="https://doi.org/10.1109/TASLP.2021.3107983" target="_blank"><i class="fas fa-external-link-alt"></i></a></li>
+<li>H. Ito, S. Koyama, N. Ueno, and H. Saruwatari, "Feedforward Spatial Active Noise Control Based on Kernel Interpolation of Sound Field," in <em>Proc. IEEE Int. Conf. Acoust., Speech, Signal Process. (ICASSP)</em>, pp. 511-515, Brighton, May, 2019. <a href="https://doi.org/10.1109/ICASSP.2019.8683067" target="_blank"><i class="fas fa-external-link-alt"></i></a></li>
 </ul>
 </div>
 
