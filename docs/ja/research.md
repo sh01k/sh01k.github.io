@@ -25,7 +25,7 @@ lang: ja
 ### スピーカアレイによる音場再現
 
 <div id=projects>
-<img id="projects" src="/img/sfr_circ.gif" alt="Sound field reproduction" width="380px">
+<img id="projects" src="/img/sfr_circ.gif" alt="Sound field reproduction" width="70%">
 <p>従来のステレオ/サラウンド方式での音響再生は、summing localizationと呼ばれる聴覚特性に基づくため、スピーカアレイ中心位置（いわゆるスィートスポット）でしか適切に受聴することができず、特に残響環境を再現する場合などは人手で音をデザインするプロセスも必要です。複数のスピーカを用いて物理的な音空間そのものを合成する音場再現技術では、広い受聴領域での再現や、音の距離感・広がり感も含めた再現が可能であるほか、人手でのデザインも不要になることが期待できます。</p>
 
 <h4>References</h4>
