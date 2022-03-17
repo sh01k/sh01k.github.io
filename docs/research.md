@@ -11,7 +11,7 @@ lang: en
     ul#projects { font-size: 90%; }
 </style>
 
-### Summary
+## Summary
 Our main research topic is “inverse problems for acoustic field” and “signal processing for sound field recording, transmission, and reproduction”. Details are described below.
 
 **Inverse problems for acoustic field:** We tackle with inverse problems for acoustic field, such as sound field imaging, analysis, source localization, and estimation of room acoustic parameters. We pursuit new methodologies with various approaches (optimization, machine learning, etc.) and develop systems to achieve these purposes.
