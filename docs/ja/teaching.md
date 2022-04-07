@@ -5,6 +5,13 @@ permalink: /ja/teaching/
 lang: ja
 ---
 
+## 2022年度
+
+**Sセメスター**
+
+ **信号処理論第一**（学部3年）
+    - 第1回 はじめに [<i class="fas fa-file-powerpoint"></i>](http://sp.ipc.i.u-tokyo.ac.jp/~koyama/teaching/sigpro1_2022/sigpro1_day1.pdf)
+
 ## 2021年度
 
 **Aセメスター**
@@ -40,13 +47,13 @@ lang: ja
     - 資料等はITC-LMSを参照してください。
 
 - **信号処理論第一**（学部3年）
-    - 第1回 はじめに [<i class="fas fa-file-powerpoint"></i>](http://sp.ipc.i.u-tokyo.ac.jp/~koyama/teaching/sigpro1_2021/sigpro1_day1.pdf)
-    - 第2回 数学的準備 [<i class="fas fa-file-powerpoint"></i>](http://sp.ipc.i.u-tokyo.ac.jp/~koyama/teaching/sigpro1_2021/sigpro1_day2.pdf)
-    - 第3回 信号の展開表現・Fourier級数展開 [<i class="fas fa-file-powerpoint"></i>](http://sp.ipc.i.u-tokyo.ac.jp/~koyama/teaching/sigpro1_2021/sigpro1_day3.pdf)
-    - 第4回 Fourier変換・離散時間Fourier変換 [<i class="fas fa-file-powerpoint"></i>](http://sp.ipc.i.u-tokyo.ac.jp/~koyama/teaching/sigpro1_2021/sigpro1_day4.pdf)
-    - 第5回 サンプリング定理・離散Fourier変換 [<i class="fas fa-file-powerpoint"></i>](http://sp.ipc.i.u-tokyo.ac.jp/~koyama/teaching/sigpro1_2021/sigpro1_day5.pdf)
-    - 第6回 窓関数・高速Fourier変換 [<i class="fas fa-file-powerpoint"></i>](http://sp.ipc.i.u-tokyo.ac.jp/~koyama/teaching/sigpro1_2021/sigpro1_day6.pdf)
-    - 第7回 信号処理のための複素関数論 [<i class="fas fa-file-powerpoint"></i>](http://sp.ipc.i.u-tokyo.ac.jp/~koyama/teaching/sigpro1_2021/sigpro1_day7.pdf)
+    - 第1回 はじめに
+    - 第2回 数学的準備
+    - 第3回 信号の展開表現・Fourier級数展開
+    - 第4回 Fourier変換・離散時間Fourier変換
+    - 第5回 サンプリング定理・離散Fourier変換
+    - 第6回 窓関数・高速Fourier変換
+    - 第7回 信号処理のための複素関数論
 
 - **学術フロンティア講義「サイバネティクス入門 ―物理・生物と情報を繋げるシステム科学－」**（学部1,2年）
     - 音を解析・合成する信号処理技術（資料等はITC-LMSを参照してください）
