@@ -1,6 +1,9 @@
+- title: CV
+  url: https://www.sh01.org/CV_shoichi-koyama.pdf
+  icon: ai ai-cv
 - title: Google Scholar
   url: https://scholar.google.co.jp/citations?hl=en&user=aHBm7hcAAAAJ
-  icon: fab fa-google
+  icon: ai ai-google-scholar-square
 - title: GitHub
   url: https://github.com/sh01k
   icon: fab fa-github
@@ -9,10 +12,13 @@
   icon: fab fa-speaker-deck
 - title: ResearchGate
   url: https://www.researchgate.net/profile/Shoichi-Koyama-2
-  icon: fab fa-researchgate
+  icon: ai ai-researchgate-square
 - title: ORCID
   url: https://orcid.org/0000-0003-2283-0884
-  icon: fab fa-orcid
+  icon: ai ai-orcid
+- title: ResearcherID
+  url: https://publons.com/researcher/AAD-9845-2019/
+  icon: ai ai-researcherid
 - title: Twitter
   url: https://twitter.com/sh01
   icon: fab fa-twitter
