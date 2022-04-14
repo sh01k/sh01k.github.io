@@ -11,6 +11,7 @@ lang: ja
 
 - **信号処理論第一**（学部3年）
     - 第1回 はじめに [<i class="fas fa-file-powerpoint"></i>](http://sp.ipc.i.u-tokyo.ac.jp/~koyama/teaching/sigpro1_2022/sigpro1_day1.pdf)
+    - 第2回 数学的準備 [<i class="fas fa-file-powerpoint"></i>](http://sp.ipc.i.u-tokyo.ac.jp/~koyama/teaching/sigpro1_2022/sigpro1_day2.pdf)
 
 ## 2021年度
 
