@@ -17,6 +17,7 @@ lang: ja
     - 第1回 はじめに [<i class="fas fa-file-powerpoint"></i>](http://sp.ipc.i.u-tokyo.ac.jp/~koyama/teaching/sigpro1_2022/sigpro1_day1.pdf)
     - 第2回 数学的準備 [<i class="fas fa-file-powerpoint"></i>](http://sp.ipc.i.u-tokyo.ac.jp/~koyama/teaching/sigpro1_2022/sigpro1_day2.pdf)
     - 第3回 信号の展開表現・Fourier級数展開 [<i class="fas fa-file-powerpoint"></i>](http://sp.ipc.i.u-tokyo.ac.jp/~koyama/teaching/sigpro1_2022/sigpro1_day3.pdf)
+    - 第4回 Fourier変換・離散時間Fourier変換 [<i class="fas fa-file-powerpoint"></i>](http://sp.ipc.i.u-tokyo.ac.jp/~koyama/teaching/sigpro1_2022/sigpro1_day4.pdf)
 
 - **学術フロンティア講義「サイバネティクス入門 ―物理・生物と情報を繋げるシステム科学－」**（学部1,2年）
 
