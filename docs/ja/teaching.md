@@ -9,6 +9,9 @@ lang: ja
 
 **Sセメスター**
 
+- **信号処理特論 / 音楽音声信号処理特論**（大学院）
+    - 音場の分析・合成とその応用 [<i class="fas fa-file-powerpoint"></i>](https://sp.ipc.i.u-tokyo.ac.jp/~koyama/teaching/adv_sp_2022/adv_sp_koyama.pdf)
+
 - **応用音響学**（学部4年）
 
 - **システム情報工学演習第三**（学部4年）
