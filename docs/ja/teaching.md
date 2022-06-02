@@ -13,6 +13,7 @@ lang: ja
     - 音場の分析・合成とその応用 [<i class="fas fa-file-powerpoint"></i>](https://sp.ipc.i.u-tokyo.ac.jp/~koyama/teaching/adv_sp_2022/adv_sp_koyama.pdf)
 
 - **応用音響学**（学部4年）
+    - 第1回 音波の伝播 [<i class="fas fa-file-powerpoint"></i>](https://sp.ipc.i.u-tokyo.ac.jp/~koyama/teaching/appl_acoust_2022/appl_acoust_day1.pdf)
 
 - **システム情報工学演習第三**（学部4年）
 
@@ -50,12 +51,12 @@ lang: ja
 **Sセメスター**
 
 - **応用音響学**（学部4年）
-    - 第7回 音波の伝播 [<i class="fas fa-file-powerpoint"></i>](https://sp.ipc.i.u-tokyo.ac.jp/~koyama/teaching/appl_acoust_2021/appl_acoust_day1.pdf)
-    - 第8回 音響管・自由空間中の音波 [<i class="fas fa-file-powerpoint"></i>](https://sp.ipc.i.u-tokyo.ac.jp/~koyama/teaching/appl_acoust_2021/appl_acoust_day2.pdf)
-    - 第9回 音場の境界値積分表現 [<i class="fas fa-file-powerpoint"></i>](https://sp.ipc.i.u-tokyo.ac.jp/~koyama/teaching/appl_acoust_2021/appl_acoust_day3.pdf)
-    - 第10回 フーリエ音響学(1) [<i class="fas fa-file-powerpoint"></i>](https://sp.ipc.i.u-tokyo.ac.jp/~koyama/teaching/appl_acoust_2021/appl_acoust_day4.pdf)
-    - 第11回 フーリエ音響学(2) [<i class="fas fa-file-powerpoint"></i>](https://sp.ipc.i.u-tokyo.ac.jp/~koyama/teaching/appl_acoust_2021/appl_acoust_day5.pdf)
-    - 第12回 室内音響学と音響数値シミュレーション [<i class="fas fa-file-powerpoint"></i>](https://sp.ipc.i.u-tokyo.ac.jp/~koyama/teaching/appl_acoust_2021/appl_acoust_day6.pdf)
+    - 第7回 音波の伝播
+    - 第8回 音響管・自由空間中の音波
+    - 第9回 音場の境界値積分表現
+    - 第10回 フーリエ音響学(1)
+    - 第11回 フーリエ音響学(2)
+    - 第12回 室内音響学と音響数値シミュレーション
 
 - **システム情報工学演習第三**（学部4年）
     - 資料等はITC-LMSを参照してください。
