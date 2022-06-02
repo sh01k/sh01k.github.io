@@ -16,6 +16,7 @@ lang: ja
     - 第1回 音波の伝播 [<i class="fas fa-file-powerpoint"></i>](https://sp.ipc.i.u-tokyo.ac.jp/~koyama/teaching/appl_acoust_2022/appl_acoust_day1.pdf)
 
 - **システム情報工学演習第三**（学部4年）
+    - 資料等はITC-LMSを参照してください。
 
 - **信号処理論第一**（学部3年）
     - 第1回 はじめに [<i class="fas fa-file-powerpoint"></i>](http://sp.ipc.i.u-tokyo.ac.jp/~koyama/teaching/sigpro1_2022/sigpro1_day1.pdf)
