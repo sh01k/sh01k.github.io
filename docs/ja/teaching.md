@@ -13,7 +13,8 @@ lang: ja
     - 音場の分析・合成とその応用 [<i class="fas fa-file-powerpoint"></i>](https://sp.ipc.i.u-tokyo.ac.jp/~koyama/teaching/adv_sp_2022/adv_sp_koyama.pdf)
 
 - **応用音響学**（学部4年）
-    - 第1回 音波の伝播 [<i class="fas fa-file-powerpoint"></i>](https://sp.ipc.i.u-tokyo.ac.jp/~koyama/teaching/appl_acoust_2022/appl_acoust_day1.pdf)
+    - 第7回 音波の伝播 [<i class="fas fa-file-powerpoint"></i>](https://sp.ipc.i.u-tokyo.ac.jp/~koyama/teaching/appl_acoust_2022/appl_acoust_day1.pdf)
+    - 第8回 音響管・自由空間中の音波 [<i class="fas fa-file-powerpoint"></i>](https://sp.ipc.i.u-tokyo.ac.jp/~koyama/teaching/appl_acoust_2022/appl_acoust_day2.pdf)
 
 - **システム情報工学演習第三**（学部4年）
     - 資料等はITC-LMSを参照してください。
