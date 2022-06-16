@@ -15,6 +15,7 @@ lang: ja
 - **応用音響学**（学部4年）
     - 第7回 音波の伝播 [<i class="fas fa-file-powerpoint"></i>](https://sp.ipc.i.u-tokyo.ac.jp/~koyama/teaching/appl_acoust_2022/appl_acoust_day1.pdf)
     - 第8回 音響管・自由空間中の音波 [<i class="fas fa-file-powerpoint"></i>](https://sp.ipc.i.u-tokyo.ac.jp/~koyama/teaching/appl_acoust_2022/appl_acoust_day2.pdf)
+    - 第9回 音場の境界値積分表現 [<i class="fas fa-file-powerpoint"></i>](https://sp.ipc.i.u-tokyo.ac.jp/~koyama/teaching/appl_acoust_2022/appl_acoust_day3.pdf)
 
 - **システム情報工学演習第三**（学部4年）
     - 資料等はITC-LMSを参照してください。
@@ -28,6 +29,7 @@ lang: ja
     - 第6回 窓関数・高速Fourier変換 [<i class="fas fa-file-powerpoint"></i>](http://sp.ipc.i.u-tokyo.ac.jp/~koyama/teaching/sigpro1_2022/sigpro1_day6.pdf)
 
 - **学術フロンティア講義「サイバネティクス入門 ―物理・生物と情報を繋げるシステム科学－」**（学部1,2年）
+    - 音を解析・合成する信号処理技術（資料等はITC-LMSを参照してください）
 
 ## 2021年度
 
