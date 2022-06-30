@@ -17,6 +17,7 @@ lang: ja
     - 第8回 音響管・自由空間中の音波 [<i class="fas fa-file-powerpoint"></i>](https://sp.ipc.i.u-tokyo.ac.jp/~koyama/teaching/appl_acoust_2022/appl_acoust_day2.pdf)
     - 第9回 音場の境界値積分表現 [<i class="fas fa-file-powerpoint"></i>](https://sp.ipc.i.u-tokyo.ac.jp/~koyama/teaching/appl_acoust_2022/appl_acoust_day3.pdf)
     - 第10回 フーリエ音響学(1) [<i class="fas fa-file-powerpoint"></i>](https://sp.ipc.i.u-tokyo.ac.jp/~koyama/teaching/appl_acoust_2022/appl_acoust_day4.pdf)
+    - 第11回 フーリエ音響学(2) [<i class="fas fa-file-powerpoint"></i>](https://sp.ipc.i.u-tokyo.ac.jp/~koyama/teaching/appl_acoust_2022/appl_acoust_day5.pdf)
 
 - **システム情報工学演習第三**（学部4年）
     - 資料等はITC-LMSを参照してください。
