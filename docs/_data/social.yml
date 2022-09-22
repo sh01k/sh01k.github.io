@@ -16,9 +16,6 @@
 - title: ORCID
   url: https://orcid.org/0000-0003-2283-0884
   icon: ai ai-orcid
-- title: ResearcherID
-  url: https://publons.com/researcher/AAD-9845-2019/
-  icon: ai ai-researcherid
 - title: Twitter
   url: https://twitter.com/sh01
   icon: fab fa-twitter
