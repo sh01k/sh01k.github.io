@@ -7,6 +7,10 @@ lang: ja
 
 ## 2022年度
 
+**Aセメスター**
+- **先端音情報科学セミナー**（東北大学 電気通信研究所）
+    - Sound Field Analysis and Synthesis: Theoretical Advances and Applications to Spatial Audio Reproduction [<i class="fas fa-file-powerpoint"></i>](https://sp.ipc.i.u-tokyo.ac.jp/~koyama/teaching/tohoku_u/tohoku_u_koyama_2022.pdf)
+
 **Sセメスター**
 
 - **信号処理特論 / 音楽音声信号処理特論**（大学院）
