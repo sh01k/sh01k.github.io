@@ -14,7 +14,7 @@ lang: en
 
 <div id="codes">
 <img id="codes" src="/img/amplitudematching.png" alt="Amplitude Matching">
-<p> A multizone sound field control method to synthesize desired amplitude (or magnitude) distributions over a target region with multiple loudspeakers. .</p>
+<p> A multizone sound field control method to synthesize desired amplitude (or magnitude) distributions over a target region with multiple loudspeakers.</p>
 </div>
 
 - **Code:** [https://github.com/sh01k/AmplitudeMatching](https://github.com/sh01k/AmplitudeMatching)
