@@ -10,6 +10,16 @@ lang: ja
     img#codes { vertical-align: top; width: 30%; height: auto;}
 </style>
 
+### Amplitude matching for multizone sound field control
+
+<div id="codes">
+<img id="codes" src="/img/amplitudematching.png" alt="Amplitude Matching">
+<p> A multizone sound field control method to synthesize desired amplitude (or magnitude) distributions over a target region with multiple loudspeakers. .</p>
+</div>
+
+- **Code:** [https://github.com/sh01k/AmplitudeMatching](https://github.com/sh01k/AmplitudeMatching)
+- **Paper:** [https://doi.org/10.1109/TASLP.2022.3231715](https://doi.org/10.1109/TASLP.2022.3231715)
+
 ### MeshRIR: Dataset of room impulse responses on meshed grid points
 
 <div id="codes">
