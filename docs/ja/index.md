@@ -9,6 +9,10 @@ lang: ja
 
 ## 小山 翔一 (Shoichi Koyama), Ph.D.
 
+国立情報学研究所 <a href="https://www.nii.ac.jp/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a> コンテンツ科学研究系<a href="https://www.nii.ac.jp/faculty/digital_content/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a> 准教授<br />
+〒101-8430 東京都千代田区一ツ橋2-1-2 <a href="https://goo.gl/maps/UvQF3FpxtToWcHYq5" target="_blank" rel="noopener noreferrer"><i class="fas fa-map-marked-alt"></i></a><br />
+<span style="color: #003be4"><i class="fas fa-envelope"></i> koyama.shoichi<i class="fas fa-at"></i>ieee.org</span><br />
+
 東京大学 <a href="https://www.u-tokyo.ac.jp/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a> 大学院情報理工学系研究科 <a href="https://www.i.u-tokyo.ac.jp/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a> <br />
 システム情報学専攻 <a href="https://www.i.u-tokyo.ac.jp/edu/course/ipc/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a> (第一研究室 <a href="https://www.sp.ipc.i.u-tokyo.ac.jp/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>) 
 講師<br />
@@ -57,7 +61,7 @@ lang: ja
     <td>Université Paris Diderot (Paris 7) / Institut Langevin 客員研究員 (JSPS 海外特別研究員)</td>
     </tr>
     <tr>
-    <td>2018.04 –</td>
+    <td>2018.04 – 2023.03</td>
     <td>東京大学 大学院情報理工学系研究科 システム情報学専攻 講師</td>
     </tr>
     <tr>
@@ -69,12 +73,16 @@ lang: ja
     <td>平成30年度 東京大学卓越研究員</td>
     </tr>
     <tr>
-    <td>2020.04 –</td>
+    <td>2020.04 – 2023.03</td>
     <td>東北大学 電気通信研究所 客員准教授</td>
     </tr>
     <tr>
     <td>2022.04 – </td>
     <td>国立研究開発法人科学技術振興機構 創発研究者</td>
+    </tr>
+    <tr>
+    <td>2023.04 – </td>
+    <td>国立情報学研究所 コンテンツ科学研究系 准教授</td>
     </tr>
     </tbody>
 </table>

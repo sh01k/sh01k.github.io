@@ -8,14 +8,13 @@ lang: en
 </style>
 
 ## Shoichi Koyama, Ph.D.
-*Lecturer*<br />
-Department of Information Physics and Computing <a href="https://www.i.u-tokyo.ac.jp/edu/course/ipc/index_e.shtml" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a> (System #1 lab <a href="https://www.sp.ipc.i.u-tokyo.ac.jp/index-en" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>), <br />
-Graduate School of Information Science and Technology <a href="https://www.i.u-tokyo.ac.jp/index_e.shtml" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>, <br />
-The University of Tokyo <a href="https://www.u-tokyo.ac.jp/en/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a><br />
-Engineering bldg. 6-242, 7-3-1 Hongo, Bunkyo-ku, Tokyo 113-8656, Japan <a href="https://www.google.co.jp/maps/place/%E3%80%92113-8654+T%C5%8Dky%C5%8D-to,+Bunky%C5%8D-ku,+Hong%C5%8D,+The+University+of+Tokyo,+7+Chome%E2%88%923+%E5%B7%A5%E5%AD%A6%E9%83%A8%EF%BC%96%E5%8F%B7%E9%A4%A8/@35.7141215,139.7611171,17z/data=!3m1!4b1!4m2!3m1!1s0x60188c31b6a0c8eb:0xb76f6e1eaadfecf6?hl=en" target="_blank" rel="noopener noreferrer"><i class="fas fa-map-marked-alt"></i></a><br />
+*Associate Professor*<br /> 
+Digital Content and Media Sciences Research Division, <a href="https://www.nii.ac.jp/en/faculty/digital_content/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a><br />
+National Institute of Informatics (NII) <a href="https://www.nii.ac.jp/en/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a> <br />
+2-1-2 Hitotsubashi, Chiyoda-ku, Tokyo 101-8430, Japan <a href="https://goo.gl/maps/Ku5jU1hfc24nhLDy5" target="_blank" rel="noopener noreferrer"><i class="fas fa-map-marked-alt"></i></a><br />
 <span style="color: #003be4"><i class="fas fa-envelope"></i> koyama.shoichi<i class="fas fa-at"></i>ieee.org</span><br />
 
-<p>Shoichi Koyama received the B.E., M.S, and Ph.D. degrees from the University of Tokyo, Tokyo, Japan, in 2007, 2009, and 2014, respectively. He joined Nippon Telegraph and Telephone (NTT) Corporation as a Researcher in 2009. He moved to the University of Tokyo in 2014 and is currently Lecturer since 2018. From 2016 to 2018, he was also a visiting researcher at Paris Diderot University (Paris 7), Institut Langevin, Paris, France. His research interests include audio signal processing / machine learning, acoustic inverse problems, and spatial audio. (Full CV: <a href="/CV_shoichi-koyama.pdf" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-alt"></i></a>)</p>
+<p>Shoichi Koyama received the B.E., M.S, and Ph.D. degrees from the University of Tokyo, Tokyo, Japan, in 2007, 2009, and 2014, respectively. He is currently an Associate Professor with the National Institute of Informatics (NII), Tokyo, Japan. Prior to joining NII, he has been a Researcher with Nippon Telegraph and Telephone Corporation (2009–2014), Research Associate (2014–2018) and Lecturer (2018–2023) with the University of Tokyo Japan. He was also a Visiting Researcher with Paris Diderot University (Paris 7), Institut Langevin, Paris, France, and a Visiting Associate Professor with Research Institute of Electrical Communication, Tohoku University, Miyagi, Japan. His research interests include audio signal processing / machine learning, acoustic inverse problems, and spatial audio. (Full CV: <a href="/CV_shoichi-koyama.pdf" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-alt"></i></a>)</p>
 
 #### Research topics
 <p>Acoustic signal processing, machine learning for audio, microphone and loudspeaker array processing, spatial audio</p>
@@ -37,13 +36,17 @@ Engineering bldg. 6-242, 7-3-1 Hongo, Bunkyo-ku, Tokyo 113-8656, Japan <a href="
     <td>Visiting researcher at Université Paris Diderot (Paris 7) / Institut Langevin (JSPS Overseas Research Fellow)</td>
     </tr>
     <tr>
-    <td>2018.04 –</td>
+    <td>2018.04 – 2023.03</td>
     <td>Lecturer at Graduate School of Information Science and Technology, the University of Tokyo</td>
     </tr>
     <tr>
-    <td>2020.04 –</td>
+    <td>2020.04 – 2023.03</td>
     <td>Visiting Associate Professor at Research Institute of Electrical Communication,
     Tohoku University</td>
+    </tr>
+    <tr>
+    <td>2023.04 – </td>
+    <td>Associate Professor at Digital Content and Media Sciences Research Division, National Institute of Informatics</td>
     </tr>
     </tbody>
 </table>
