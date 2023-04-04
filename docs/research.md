@@ -12,11 +12,7 @@ lang: en
 </style>
 
 ## Summary
-Our main research topic is “inverse problems for acoustic field” and “signal processing for sound field recording, transmission, and reproduction”. Details are described below.
-
-**Inverse problems for acoustic field:** We tackle with inverse problems for acoustic field, such as sound field imaging, analysis, source localization, and estimation of room acoustic parameters. We pursuit new methodologies with various approaches (optimization, machine learning, etc.) and develop systems to achieve these purposes.
-
-**Signal processing for sound field recording, transmission, and reproduction:** We deal with a broad range of problems for sound field recording, transmission, and reproduction. By using these methodologies, we develop new systems for telecommunication, virtual reality, and so on.
+Our main research topic is the analysis and control of acoustic fields and their applications. In particular, we explore new signal processing/machine learning methodologies that incorporate the physical properties of wave fields. Based on these methodologies, we aim to develop systems for virtual reality audio, spatial noise suppression, etc. 
 
 <script async class="speakerdeck-embed" data-id="ec7d2e4282a1433bb7c49449a5d4a436" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
