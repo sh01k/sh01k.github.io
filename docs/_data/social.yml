@@ -4,6 +4,9 @@
 - title: Google Scholar
   url: https://scholar.google.co.jp/citations?hl=en&user=aHBm7hcAAAAJ
   icon: ai ai-google-scholar-square
+- title: researchmap
+  url: https://researchmap.jp/shoichi_koyama/
+  icon: ai ai-researcherid-square
 - title: GitHub
   url: https://github.com/sh01k
   icon: fab fa-github
