@@ -14,7 +14,7 @@ lang: en
 ## Summary
 Our main research topic is the analysis and control of acoustic fields and their applications. In particular, we explore new signal processing/machine learning methodologies that incorporate the physical properties of wave fields. Based on these methodologies, we aim to develop systems for virtual reality audio, spatial noise suppression, etc. 
 
-<script async class="speakerdeck-embed" data-id="ec7d2e4282a1433bb7c49449a5d4a436" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script defer class="speakerdeck-embed" data-id="3e8d2624f0bd44de9f5338a91bda2b8d" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
 ## Projects
 
