@@ -13,6 +13,8 @@ lang: ja
 〒101-8430 東京都千代田区一ツ橋2-1-2 <a href="https://goo.gl/maps/UvQF3FpxtToWcHYq5" target="_blank" rel="noopener noreferrer"><i class="fas fa-map-marked-alt"></i></a><br />
 <span style="color: #003be4"><i class="fas fa-envelope"></i> koyama.shoichi<i class="fas fa-at"></i>ieee.org</span><br />
 
+2007年 東京大学工学部計数工学科卒業．2009年 同大学院情報理工学系研究科システム情報学専攻修了．同年 日本電信電話(株)入社．以来，音響信号処理に関する研究に従事．博士(情報理工学)．2014年 東京大学大学院情報理工学系研究科 助教，2018年 同講師を経て，2023年より国立情報学研究所コンテンツ科学研究系 准教授．2016-2018年 Université Paris Diderot (Paris 7) / Institut Langevin 客員研究員，2020-2023年 東北大学電気通信研究所 客員准教授などを兼任．
+
 #### 研究内容
 
 <p>音響信号処理, マイク・スピーカアレイ処理, 音メディアのための機械学習，空間音響</p>
