@@ -6,14 +6,14 @@ lang: ja
 ---
 
 <style>
-    #codes { display: flex; align-items: flex-start; gap: 1rem; padding: 0.2rem 1rem 1rem 1rem; }
-    img#codes { vertical-align: top; width: 30%; height: auto;}
+    #code { display: flex; align-items: flex-start; gap: 1rem; padding: 0.2rem 1rem 1rem 1rem; }
+    img#code { vertical-align: top; width: 30%; height: auto;}
 </style>
 
 ### Amplitude matching for multizone sound field control
 
-<div id="codes">
-<img id="codes" src="/img/amplitudematching.png" alt="Amplitude Matching">
+<div id="code">
+<img id="code" src="/img/amplitudematching.png" alt="Amplitude Matching">
 <p> A multizone sound field control method to synthesize desired amplitude (or magnitude) distributions over a target region with multiple loudspeakers.</p>
 </div>
 
@@ -22,8 +22,8 @@ lang: ja
 
 ### MeshRIR: Dataset of room impulse responses on meshed grid points
 
-<div id="codes">
-<img id="codes" src="/img/meshrir.png" alt="MeshRIR">
+<div id="code">
+<img id="code" src="/img/meshrir.png" alt="MeshRIR">
 <p> A dataset of acoustic room impulse responses (RIRs) on finely meshed grid points. MeshRIR is suitable for evaluating sound field analysis and synthesis methods.</p>
 </div>
 
@@ -33,8 +33,8 @@ lang: ja
 
 ### Optimizing source and sensor placement for sound field cotnrol
 
-<div id=codes>
-<img id="codes" src="/img/SourceSensorPlacement.png" alt="Source and sensor placement">
+<div id="code">
+<img id="code" src="/img/SourceSensorPlacement.png" alt="Source and sensor placement">
 <p>MATLAB scripts for overview article on optimization of source and sensor placement for sound field control.</p>
 </div>
 
@@ -43,8 +43,8 @@ lang: ja
 
 ### Sparse representation using multidimensional mixed-norm penalty
 
-<div id=codes>
-<img id="codes" src="/img/TensorModel.png" alt="Tensor model">
+<div id="code">
+<img id="code" src="/img/TensorModel.png" alt="Tensor model">
 <p>MATLAB scripts for sparse representation using multidimensional mixed-norm penalty.</p>
 </div>
 
@@ -53,8 +53,8 @@ lang: ja
 
 ### Source-location-informed sound field recording and reproduction
 
-<div id=codes>
-<img id="codes" src="/img/sli_sphere.png" alt="Source-location-informed sound field recording and reproduction">
+<div id="code">
+<img id="code" src="/img/sli_sphere.png" alt="Source-location-informed sound field recording and reproduction">
 <p>MATLAB scripts for source-location-informed sound field recording and reproduction with spherical arrays.</p>
 </div>
 
@@ -63,8 +63,8 @@ lang: ja
 
 ### Wave field reconstruction filtering for sound field recording and reproduction
 
-<div id=codes>
-<img id="codes" src="/img/wfr_line.png" alt="Wave field reconstruction filtering">
+<div id="code">
+<img id="code" src="/img/wfr_line.png" alt="Wave field reconstruction filtering">
 <p>MATLAB scripts for simulating sound field recording and reproduction using wave field reconstruction (WFR) filter.</p>
 </div>
 
@@ -73,8 +73,8 @@ lang: ja
 
 ### Measuring acoustic impulse response using time-stretched pulse
 
-<div id=codes>
-<img id="codes" src="/img/tsp.png" alt="TSP">
+<div id="code">
+<img id="code" src="/img/tsp.png" alt="TSP">
 <p>A python CLI script for measuring an acoustic impulse response with time-stretched pulse (TSP) / swept-sine signal.</p>
 </div>
 
