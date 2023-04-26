@@ -9,7 +9,7 @@ lang: ja
 
 ## 小山 翔一 (Shoichi Koyama), Ph.D.
 
-国立情報学研究所 <a href="https://www.nii.ac.jp/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a> コンテンツ科学研究系<a href="https://www.nii.ac.jp/faculty/digital_content/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a> /<br />
+国立情報学研究所 <a href="https://www.nii.ac.jp/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a> コンテンツ科学研究系<a href="https://www.nii.ac.jp/faculty/digital_content/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a> 准教授 /<br />
 総合研究大学院大学 <a href="https://www.soken.ac.jp/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a> 先端学術院情報学コース<a href="https://www.nii.ac.jp/graduate/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a> 准教授<br />
 〒101-8430 東京都千代田区一ツ橋2-1-2 <a href="https://goo.gl/maps/UvQF3FpxtToWcHYq5" target="_blank" rel="noopener noreferrer"><i class="fas fa-map-marked-alt"></i></a><br />
 <span style="color: #003be4"><i class="fas fa-envelope"></i> koyama.shoichi<i class="fas fa-at"></i>ieee.org</span><br />
