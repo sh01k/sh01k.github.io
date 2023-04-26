@@ -9,9 +9,9 @@ lang: en
 
 ## Shoichi Koyama, Ph.D.
 *Associate Professor*<br /> 
-Digital Content and Media Sciences Research Division, <a href="https://www.nii.ac.jp/en/faculty/digital_content/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a><br />
+Digital Content and Media Sciences Research Division <a href="https://www.nii.ac.jp/en/faculty/digital_content/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>,<br />
 National Institute of Informatics <a href="https://www.nii.ac.jp/en/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a> /<br />
-Graduate Institute for Advanced Studies, <a href="hhttps://www.nii.ac.jp/graduate/en/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a> SOKENDAI <a href="https://www.soken.ac.jp/en/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a><br />
+Graduate Institute for Advanced Studies <a href="hhttps://www.nii.ac.jp/graduate/en/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>, SOKENDAI <a href="https://www.soken.ac.jp/en/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a><br />
 2-1-2 Hitotsubashi, Chiyoda-ku, Tokyo 101-8430, Japan <a href="https://goo.gl/maps/Ku5jU1hfc24nhLDy5" target="_blank" rel="noopener noreferrer"><i class="fas fa-map-marked-alt"></i></a><br />
 <span style="color: #003be4"><i class="fas fa-envelope"></i> koyama.shoichi<i class="fas fa-at"></i>ieee.org</span><br />
 
