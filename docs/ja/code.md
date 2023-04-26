@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Codes
-permalink: /ja/codes/
+title: Code and Datasets
+permalink: /ja/code/
 lang: ja
 ---
 
