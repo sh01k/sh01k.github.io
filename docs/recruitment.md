@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Recruitemnt
+title: Recruitment
 permalink: /recruitment/
 lang: en
 ---
