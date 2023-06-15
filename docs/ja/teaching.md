@@ -6,7 +6,7 @@ lang: ja
 ---
 
 ## 2023年度以降の講義資料は研究室のページを参照してください。
-- [https://skoyamalab.github.io/ja/teaching/](https://skoyamalab.github.io/ja/teaching/)
+- [https://www.ap.nii.ac.jp/ja/teaching/](https://www.ap.nii.ac.jp/ja/teaching/)
 
 ## 2022年度
 
