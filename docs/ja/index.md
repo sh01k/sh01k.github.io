@@ -4,7 +4,7 @@ lang: ja
 ---
 
 <style>
-    .biography table, .biography td, .biography tr { border: 0; min-width: 9rem; vertical-align: top; padding: 0.4rem 1rem;}
+    .biography table, .biography td, .biography tr { border: 0; min-width: 9rem; vertical-align: top; padding: 0.2rem 1rem;}
 </style>
 
 ## 小山 翔一 (Shoichi Koyama), Ph.D.

@@ -4,7 +4,7 @@ lang: en
 ---
 
 <style>
-    .biography table, .biography td, .biography tr { border: 0; min-width: 9rem; vertical-align: top; padding: 0.5rem 1rem;}
+    .biography table, .biography td, .biography tr { border: 0; min-width: 9rem; vertical-align: top; padding: 0.2rem 1rem;}
 </style>
 
 ## Shoichi Koyama, Ph.D.
