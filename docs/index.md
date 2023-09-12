@@ -81,6 +81,7 @@ Graduate Institute for Advanced Studies <a href="https://www.nii.ac.jp/graduate/
 </div>
 
 #### Awards
+- The Service Award (Associate Editor), IEICE ESS, 2023. <a href="https://www.ieice.org/ess/ESS/ESS_awardee.html" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
 - The Activity Contribution Award, ASJ, 2022. <a href="https://acoustics.jp/awards/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
 - The Service Award (Operation of Technical Committee on Engineering Acoustics), IEICE ESS, 2021. <a href="https://www.ieice.org/ess/ESS/ESS_awardee.html" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
 - The Research Award, Funai Foundation for Information Technology, 2018. <a href="https://www.funaifoundation.jp/grantees/young_awardees_up_to_now_17.html" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
