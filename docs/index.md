@@ -55,7 +55,7 @@ Graduate Institute for Advanced Studies <a href="https://www.nii.ac.jp/graduate/
     </tr>
     </tbody>
 </table>
-<p>Member of <a href="https://www.ieee.org/" target="_blank" rel="noopener noreferrer">IEEE</a>, <a href="https://acousticalsociety.org/" target="_blank" rel="noopener noreferrer">Acoustical Society of America (ASA)</a>, <a href="https://aes2.org/" target="_blank" rel="noopener noreferrer">Audio Engineering Society (AES)</a>, <a href="https://www.ieice.org/eng_r/index.html" target="_blank" rel="noopener noreferrer">IEICE</a>, <a href="https://acoustics.jp/en/" target="_blank" rel="noopener noreferrer">Acoustical Society of Japan (ASJ)</a></p>
+<p>Senior Member of <a href="https://www.ieee.org/" target="_blank" rel="noopener noreferrer">IEEE</a>, Member of <a href="https://acousticalsociety.org/" target="_blank" rel="noopener noreferrer">Acoustical Society of America (ASA)</a>, <a href="https://aes2.org/" target="_blank" rel="noopener noreferrer">Audio Engineering Society (AES)</a>, <a href="https://www.ieice.org/eng_r/index.html" target="_blank" rel="noopener noreferrer">IEICE</a>, <a href="https://acoustics.jp/en/" target="_blank" rel="noopener noreferrer">Acoustical Society of Japan (ASJ)</a></p>
 </div>
 
 #### Education
