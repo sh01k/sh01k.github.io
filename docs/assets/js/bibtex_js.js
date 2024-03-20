@@ -601,7 +601,10 @@ function BibtexDisplay() {
             } else if (key == "URL") {
                 value = value.replace(/\\url/g, '');
                 value = this.fixValue(value);
-            } else {
+            } else if (key == "ARXIV") {
+                value = 'https://arxiv.org/abs/' + value;
+                value = this.fixValue(value);
+            }else {
                 value = this.fixValue(value);
             }
 
