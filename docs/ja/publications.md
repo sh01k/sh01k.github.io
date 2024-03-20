@@ -73,7 +73,7 @@ lang: ja
         <span class="if ieicenotice">(Copyright &copy; <span class="ieicenotice"></span> <a href="https://search.ieice.org/" target="_blank">IEICE</a>)</span> 
         <span class="if html"><a class="html" target="_blank"><i class="fas fa-external-link-alt"></i></a></span> 
         <span class="if pdf"><a class="pdf" target="_blank"><i class="fas fa-file-pdf"></i></a></span> 
-        <span class="if arxiv"><a class="arxiv" target="_blank"><i class="ai ai-arxiv"></i></a></span> 
+        <span class="if arxiv"><a class="arxiv" target="_blank"><i class="ai ai-arxiv-square"></i></a></span> 
         <span class="if code"><a class="code" target="_blank"><i class="fas fa-code"></i></a></span> 
         <span class="if slides"><a class="slides" target="_blank"><i class="fas fa-file-powerpoint"></i></a></span> 
         <span class="if video"><a class="video" target="_blank"><i class="fas fa-video"></i></a></span> 
