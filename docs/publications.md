@@ -6,7 +6,7 @@ lang: en
 ---
 
 <script src="/assets/js/bibtex_js.js" type="text/javascript" charset="utf-8"></script>
-<bibtex src="/assets/js/koyama_en_js.bib"></bibtex>
+<bibtex src="/assets/js/skoyama_en.bib"></bibtex>
 
 <style>
     #bibtex_js_menu {margin: 3rem 0rem;}
@@ -61,11 +61,12 @@ lang: en
         <span class="if year"><span class="year"></span></span>. 
         <span class="if note"><span class="note"></span></span> 
         <span class="if ieicenotice">(Copyright &copy; <span class="ieicenotice"></span> <a href="https://search.ieice.org/" target="_blank">IEICE</a>)</span> 
-        <span class="if url"><a class="url" target="_blank"><i class="fas fa-external-link-alt"></i></a></span> 
+        <span class="if html"><a class="html" target="_blank"><i class="fas fa-external-link-alt"></i></a></span> 
         <span class="if pdf"><a class="pdf" target="_blank"><i class="fas fa-file-pdf"></i></a></span> 
+        <span class="if arxiv"><a class="arxiv" target="_blank"><i class="ai ai-arxiv"></i></a></span> 
         <span class="if code"><a class="code" target="_blank"><i class="fas fa-code"></i></a></span> 
-        <span class="if ppt"><a class="ppt" target="_blank"><i class="fas fa-file-powerpoint"></i></a></span> 
-        <span class="if movie"><a class="movie" target="_blank"><i class="fas fa-video"></i></a></span> 
+        <span class="if slides"><a class="slides" target="_blank"><i class="fas fa-file-powerpoint"></i></a></span> 
+        <span class="if video"><a class="video" target="_blank"><i class="fas fa-video"></i></a></span> 
         <span class="if invite==1|2"><span id="award">[Invited]</span></span> 
         <span class="if award_en"><span id="award">[<span class="award_en"></span>]</span></span>
     </div>
