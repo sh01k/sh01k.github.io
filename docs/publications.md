@@ -16,11 +16,14 @@ lang: en
 </style>
 
 <div id="bibtex_js_menu">
-<a href="#journal">Journal Papers</a> &#124; <a href="#article">Articles</a> &#124; <a href="#int-conf">Conferences</a> &#124; <a href="#talk">Talks</a> &#124; <a href="#demo">Demo</a> &#124; <a href="#disser">Dissertation</a>
+<a href="#journal">Journal Papers</a> &#124; <a href="#book">Books</a> &#124; <a href="#article">Articles</a> &#124; <a href="#int-conf">Conferences</a> &#124; <a href="#talk">Talks</a> &#124; <a href="#demo">Demo</a> &#124; <a href="#disser">Dissertation</a>
 </div>
 
 <h3 id="journal"> Journal Papers </h3>
 <div class="bibtex_display" category="Journal Papers|Letters"></div>
+
+<h3 id="book"> Books </h3>
+<div class="bibtex_display" category="Books"></div>
 
 <h3 id="article"> Overview / Tutorial Papers </h3>
 <div class="bibtex_display" category="Articles"></div>
