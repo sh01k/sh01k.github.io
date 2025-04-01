@@ -104,10 +104,10 @@ lang: ja
 #### 外部資金
 
 **研究代表者**
+- 2022-2028年度 国立研究開発法人科学技術振興機構 創発的研究支援事業 <br />
+    “音の空間的制御とその応用展開” <a href="https://www.jst.go.jp/souhatsu/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
 - 2022-2025年度 日本学術振興会 科学研究費補助金, 基盤研究(B) <br />
     “高解像度音空間解析のためのデータ駆動型計測技術とその応用” <a href="https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23K24864/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
-- 2022-2024年度 国立研究開発法人科学技術振興機構 創発的研究支援事業 <br />
-    “音の空間的制御とその応用展開” <a href="https://www.jst.go.jp/souhatsu/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
 - 2018-2020年度 平成30年度 東京大学卓越研究員 <br />
     “音場の計測と合成における信号処理の研究” <a href="https://www.u-tokyo.ac.jp/ex-researchers/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
 - 2018-2021年度 国立研究開発法人科学技術振興機構 さきがけ（人とインタラクションの未来）<br />
