@@ -92,6 +92,7 @@ lang: ja
 
 #### 受賞
 
+- 電子情報通信学会, 基礎・境界ソサイエティ 編集活動貢献賞, 2025. <a href="https://www.ieice.org/ess/ESS/ESS_awardee.html" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
 - 日本音響学会, 学会活動貢献賞, 2022. <a href="https://acoustics.jp/awards/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
 - 電子情報通信学会, 基礎・境界ソサイエティ 貢献賞 (研究専門委員会運営), 2021. <a href="https://www.ieice.org/ess/ESS/ESS_awardee.html" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
 - 船井情報科学振興財団, 研究奨励賞, 2018. <a href="https://www.funaifoundation.jp/grantees/young_awardees_up_to_now_17.html" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
