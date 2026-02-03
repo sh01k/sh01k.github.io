@@ -15,7 +15,7 @@ Graduate Institute for Advanced Studies <a href="https://www.nii.ac.jp/graduate/
 2-1-2 Hitotsubashi, Chiyoda-ku, Tokyo 101-8430, Japan <a href="https://goo.gl/maps/Ku5jU1hfc24nhLDy5" target="_blank" rel="noopener noreferrer"><i class="fas fa-map-marked-alt"></i></a><br />
 <span style="color: #003be4"><i class="fas fa-envelope"></i> koyama.shoichi<i class="fas fa-at"></i>ieee.org</span><br />
 
-<p>Shoichi Koyama received his B.E., M.S, and Ph.D. degrees from the University of Tokyo, Tokyo, Japan, in 2007, 2009, and 2014, respectively. He is currently an Associate Professor at the National Institute of Informatics (NII), Tokyo, Japan. Prior to joining NII, he was a Researcher at Nippon Telegraph and Telephone Corporation (2009--2014), and Research Associate (2014--2018) and Lecturer (2018--2023) at the University of Tokyo, Tokyo, Japan. He was also a Visiting Researcher at Paris Diderot University (Paris 7), Institut Langevin, Paris, France (2016--2018), and a Visiting Associate Professor at Research Institute of Electrical Communication, Tohoku University, Miyagi, Japan (2020--2023). His research interests include audio signal processing/machine learning, acoustic inverse problems, and spatial audio. (Full CV: <a href="/CV_shoichi-koyama.pdf" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-alt"></i></a>)</p>
+<p>Shoichi Koyama received his B.E., M.S, and Ph.D. degrees from the University of Tokyo, Tokyo, Japan, in 2007, 2009, and 2014, respectively. He is currently an Associate Professor at the National Institute of Informatics (NII), Tokyo, Japan. Prior to joining NII, he was a Researcher at Nippon Telegraph and Telephone Corporation (2009-2014), and Research Associate (2014-2018) and Lecturer (2018-2023) at the University of Tokyo, Tokyo, Japan. He was also a Visiting Researcher at Paris Diderot University (Paris 7), Institut Langevin, Paris, France (2016-2018), and a Visiting Associate Professor at Research Institute of Electrical Communication, Tohoku University, Miyagi, Japan (2020-2023). His research interests include audio signal processing/machine learning, acoustic inverse problems, and spatial audio. (Full CV: <a href="/CV_shoichi-koyama.pdf" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-alt"></i></a>)</p>
 
 #### Research topics
 <p>Acoustic signal processing, machine learning for audio, microphone and loudspeaker array processing, spatial audio</p>
@@ -79,6 +79,7 @@ Graduate Institute for Advanced Studies <a href="https://www.nii.ac.jp/graduate/
     </tbody>
 </table>
 </div>
+
 
 #### Awards
 - The Service Award for Editorial Activities, IEICE ESS, 2025. <a href="https://www.ieice.org/ess/ESS/ESS_awardee.html" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
