@@ -134,12 +134,20 @@ Graduate Institute for Advanced Studies <a href="https://www.nii.ac.jp/graduate/
 - The Young Researcher Award, SICE Measurement Division, 2009. <a href="https://www.sice.or.jp/org/s_forum/prize.html" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
 
 #### Selected research grants
-- AY2022-2028 JST FOREST “Spatial Control of Sound and Its Applications” (PI) <a href="https://www.jst.go.jp/souhatsu/en/index.html" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
+
+**Principal Investigator**
+- AY2022-2028 JST FOREST “Spatial Control of Sound and Its Applications” <a href="https://www.jst.go.jp/souhatsu/en/index.html" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
 - AY2022-2025 JSPS KAKENHI, Grant-in-Aid for Scientific Research (B) <br />
-    “Data-driven sound field measurement for high-resolution spatial audio analysis and its applications” (PI) <a href="https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-23K24864/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
+    “Data-driven sound field measurement for high-resolution spatial audio analysis and its applications” <a href="https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-23K24864/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
 - AY2018-2020 The University of Tokyo Excellent Young Researcher (AY2018) <a href="https://www.u-tokyo.ac.jp/excellent-researchers/index.html" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
 - AY2018-2021 JST PRESTO (Humans and Interactions)<br />
-    “Spatial Sound Field Recording and Reproduction With Distributed Arrays” (PI) <a href="https://www.jst.go.jp/kisoken/presto/en/research_area/ongoing/areah29-4.html" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
+    “Spatial Sound Field Recording and Reproduction With Distributed Arrays” <a href="https://www.jst.go.jp/kisoken/presto/en/research_area/ongoing/areah29-4.html" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
 - AY2016-2017 JSPS Overseas Research Fellowships <a href="https://www.jsps.go.jp/english/e-ab/index.html" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
 - AYA2015-2018 JSPA KAKENHI, Grant-in-Aid for Young Scientists (A) <br />
-    “A study on super-resolution sound field recording and reproduction for high-fidelity audio systems” (PI) <a href="https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-15H05312/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
+    “A study on super-resolution sound field recording and reproduction for high-fidelity audio systems” <a href="https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-15H05312/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
+
+**Co-Investigator**
+- AY2019-2022 JSPS KAKENHI, Grant-in-Aid for Scientific Research (A) (PI: Hiroshi Saruwatari)<br />
+    “Acoustic Augmented Reality and Auditory Communication Ability Expansion Based on Small-Data Machine Learning Theory” <a href="https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-19H01116/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
+- AY2016-2019 JSPS KAKENHI, Grant-in-Aid for Scientific Research (A) (PI: Nobutaka Ono) <br />
+    “Deepening of Array Signal Processing Theory Expanded to Asynchronous Distributed Channels and Real-World Applications” <a href="https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-16H01735/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
