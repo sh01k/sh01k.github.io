@@ -13,8 +13,8 @@ lang: ja
 - ~~**インタラクティブメディア**~~ （休講）
 
 - **メディア処理基礎**
-    - 11/11(火): Fumdamentals of Signal Processing (Part 1) 
-    - 11/18(火): Fumdamentals of Signal Processing (Part 2) 
+    - 11/11(火): Fundamentals of Signal Processing (Part 1) 
+    - 11/18(火): Fundamentals of Signal Processing (Part 2) 
 
 <details markdown="1">
 <summary>過去の講義</summary>
@@ -25,8 +25,8 @@ lang: ja
     - 5/15(水): Introduction to Signal Processing and Machiene Learning for Audio and Acoustics
 
 - **メディア処理基礎**
-    - 11/19(火): Fumdamentals of Signal Processing (Part 1) 
-    - 11/26(火): Fumdamentals of Signal Processing (Part 2) 
+    - 11/19(火): Fundamentals of Signal Processing (Part 1) 
+    - 11/26(火): Fundamentals of Signal Processing (Part 2) 
 
 ## 2023年度
 
@@ -36,8 +36,8 @@ lang: ja
 - ~~**インタラクティブメディア**~~ （休講）
 
 - **メディア処理基礎**
-    - 10/31(火): Fumdamentals of Signal Processing (Part 1) 
-    - 11/17(火): Fumdamentals of Signal Processing (Part 2) 
+    - 10/31(火): Fundamentals of Signal Processing (Part 1) 
+    - 11/17(火): Fundamentals of Signal Processing (Part 2) 
 
 ## 2022年度
 

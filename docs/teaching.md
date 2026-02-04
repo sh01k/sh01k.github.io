@@ -13,8 +13,8 @@ lang: en
 - ~~**Interactive Media**~~ (Canceled)
 
 - **Fundamentals of Media Processing**
-    - 11 Nov. (Tue): Fumdamentals of Signal Processing (Part 1) 
-    - 18 Nov. (Tue): Fumdamentals of Signal Processing (Part 2) 
+    - 11 Nov. (Tue): Fundamentals of Signal Processing (Part 1) 
+    - 18 Nov. (Tue): Fundamentals of Signal Processing (Part 2) 
 
 <details markdown="1">
 <summary>Past teaching</summary>
@@ -25,8 +25,8 @@ lang: en
     - 15 May (Wed): Introduction to Signal Processing and Machiene Learning for Audio and Acoustics
 
 - **Fundamentals of Media Processing**
-    - 19 Nov. (Tue): Fumdamentals of Signal Processing (Part 1) 
-    - 26 Nov. (Tue): Fumdamentals of Signal Processing (Part 2) 
+    - 19 Nov. (Tue): Fundamentals of Signal Processing (Part 1) 
+    - 26 Nov. (Tue): Fundamentals of Signal Processing (Part 2) 
 
 ## AY2023
 
@@ -36,7 +36,7 @@ lang: en
 - ~~**Interactive Media**~~ (Canceled)
 
 - **Fundamentals of Media Processing**
-    - 31 Oct. (Tue): Fumdamentals of Signal Processing (Part 1) 
-    - 17 Nov. (Tue): Fumdamentals of Signal Processing (Part 2) 
+    - 31 Oct. (Tue): Fundamentals of Signal Processing (Part 1) 
+    - 17 Nov. (Tue): Fundamentals of Signal Processing (Part 2) 
 
 </details>
