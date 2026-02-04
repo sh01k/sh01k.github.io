@@ -137,17 +137,14 @@ lang: ja
 
 <p>Reviewer for <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570655" target="_blank" rel="noopener noreferrer">IEEE/ACM Transactions on Audio, Speech, and Language Processing</a>, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=78" target="_blank" rel="noopener noreferrer">IEEE Transactions on Signal Processing</a>, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97" target="_blank" rel="noopener noreferrer">IEEE Signal Processing Letters</a>, <a href="https://pubs.aip.org/asa/jasa" target="_blank" rel="noopener noreferrer">Journal of the Acousitcal Society of America</a>, <a href="https://ieeexplore.ieee.org/xpl/conhome/1000002/all-proceedings" target="_blank" rel="noopener noreferrer">IEEE ICASSP</a>, <a href="https://ieeexplore.ieee.org/xpl/conhome/1000042/all-proceedings" target="_blank" rel="noopener noreferrer">IEEE WASPAA</a>, etc.</p>
 
-#### 受賞
+#### 主な受賞
 
 - 電子情報通信学会, 基礎・境界ソサイエティ 編集活動貢献賞, 2025. <a href="https://www.ieice.org/ess/ESS/ESS_awardee.html" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
-- 日本音響学会, 学会活動貢献賞, 2022. <a href="https://acoustics.jp/awards/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
-- 電子情報通信学会, 基礎・境界ソサイエティ 貢献賞 (研究専門委員会運営), 2021. <a href="https://www.ieice.org/ess/ESS/ESS_awardee.html" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
 - 船井情報科学振興財団, 研究奨励賞, 2018. <a href="https://www.funaifoundation.jp/grantees/young_awardees_up_to_now_17.html" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
 - 電気通信普及財団, テレコムシステム技術賞 入賞, 2015. <a href="https://www.taf.or.jp/award/telesys/2014.html" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
 - 日本音響学会, 独創研究奨励賞 板倉記念, 2015. <a href="https://acoustics.jp/awards/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
 - 日本音響学会, 粟屋潔 学術奨励賞, 2011. <a href="https://acoustics.jp/awards/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
 - 電気学会, センサ・マイクロマシン部門 奨励論文賞, 2010. 
-- 計測自動制御学会, 計測部門 研究技術奨励賞, 2009. <a href="https://www.sice.or.jp/org/s_forum/prize.html" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
 
 #### 主な外部資金
 

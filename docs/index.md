@@ -122,16 +122,13 @@ Graduate Institute for Advanced Studies <a href="https://www.nii.ac.jp/graduate/
 
 <p>Reviewer for <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570655" target="_blank" rel="noopener noreferrer">IEEE/ACM Transactions on Audio, Speech, and Language Processing</a>, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=78" target="_blank" rel="noopener noreferrer">IEEE Transactions on Signal Processing</a>, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97" target="_blank" rel="noopener noreferrer">IEEE Signal Processing Letters</a>, <a href="https://pubs.aip.org/asa/jasa" target="_blank" rel="noopener noreferrer">Journal of the Acousitcal Society of America</a>, <a href="https://ieeexplore.ieee.org/xpl/conhome/1000002/all-proceedings" target="_blank" rel="noopener noreferrer">IEEE ICASSP</a>, <a href="https://ieeexplore.ieee.org/xpl/conhome/1000042/all-proceedings" target="_blank" rel="noopener noreferrer">IEEE WASPAA</a>, etc.</p>
 
-#### Awards
+#### Selected awards
 - The Service Award for Editorial Activities, IEICE ESS, 2025. <a href="https://www.ieice.org/ess/ESS/ESS_awardee.html" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
-- The Activity Contribution Award, ASJ, 2022. <a href="https://acoustics.jp/awards/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
-- The Service Award (Operation of Technical Committee on Engineering Acoustics), IEICE ESS, 2021. <a href="https://www.ieice.org/ess/ESS/ESS_awardee.html" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
 - The Research Award, Funai Foundation for Information Technology, 2018. <a href="https://www.funaifoundation.jp/grantees/young_awardees_up_to_now_17.html" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
 - The Telecom System Technology Award, the Telecommunication Advancement Foundation, 2015. <a href="https://www.taf.or.jp/award/telesys/2014.html" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
 - The Itakura Prize Innovative Young Researcher Award, ASJ, 2015. <a href="https://acoustics.jp/awards/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
 - The Awaya Prize Young Researcher Award, ASJ, 2011. <a href="https://acoustics.jp/awards/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
 - The Best Young Researcher Paper Award, IEEJ Sensors and Micromachines Society, 2010. 
-- The Young Researcher Award, SICE Measurement Division, 2009. <a href="https://www.sice.or.jp/org/s_forum/prize.html" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
 
 #### Selected research grants
 
