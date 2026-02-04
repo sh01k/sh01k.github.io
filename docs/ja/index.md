@@ -157,7 +157,7 @@ lang: ja
     “音場の計測と合成における信号処理の研究” <a href="https://www.u-tokyo.ac.jp/ex-researchers/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
 - 2018-2021年度 国立研究開発法人科学技術振興機構 さきがけ（人とインタラクションの未来）<br />
     “分散配置アレイによる音空間の記録・再生技術基盤の構築” <a href="https://www.jst.go.jp/kisoken/presto/research_area/ongoing/bunyah29-4.html" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
-- 2016-2017年度 日本学術振興会 海外特別研究員
+- 2016-2017年度 日本学術振興会 海外特別研究員 <a href="https://www.jsps.go.jp/j-ab/index.html" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
 - 2015-2018年度 日本学術振興会 科学研究費補助金, 若手研究(A) <br />
     “高精細音響システムのための超解像型音場収音・再現の研究” <a href="https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-15H05312/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
 
