@@ -18,7 +18,7 @@ lang: ja
 
 #### 研究内容
 
-<p>音響信号処理, マイク・スピーカアレイ処理, 音メディアのための機械学習，空間音響（詳細はこちら：<a href="https://www.ap.nii.ac.jp/research/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>）</p>
+<p>音響信号処理, マイク・スピーカアレイ処理, 音メディアのための機械学習，空間音響（詳細はこちら：<a href="https://www.ap.nii.ac.jp/ja/research/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>）</p>
 
 #### 職歴
 
