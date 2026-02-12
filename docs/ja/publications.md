@@ -8,13 +8,13 @@ lang: ja
 <script src="/assets/js/bibtex_js.js" type="text/javascript" charset="utf-8"></script>
 <bibtex src="/assets/js/skoyama_ja.bib"></bibtex>
 
-<style>
+<!-- style>
     #bibtex_js_menu {margin: 3rem 0rem;}
     ul#bibtex_js { font-size: 90%; margin-bottom: 0.5rem;}
     #award { color: #d14 }
     [class="Shoichi Koyama"] {text-decoration: underline;}
     [class="小山 翔一"] {text-decoration: underline;}
-</style>
+</style -->
 
 <div id="bibtex_js_menu">
 <a href="#journal">原著論文</a> &#124; <a href="#book">書籍</a> &#124; <a href="#article">記事</a> &#124; <a href="#int-conf">国際会議</a> &#124; <a href="#dom-conf">国内会議</a> &#124; <a href="#talk">その他講演</a> &#124; <a href="#demo">展示/デモ</a> &#124; <a href="#disser">学位論文</a>

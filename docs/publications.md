@@ -8,12 +8,12 @@ lang: en
 <script src="/assets/js/bibtex_js.js" type="text/javascript" charset="utf-8"></script>
 <bibtex src="/assets/js/skoyama_en.bib"></bibtex>
 
-<style>
+<!-- style>
     #bibtex_js_menu {margin: 3rem 0rem;}
     ul#bibtex_js { font-size: 90%; margin-bottom: 0.5rem;}
     #award { color: #d14 }
     [class="Shoichi Koyama"] {text-decoration: underline;}
-</style>
+</style -->
 
 <div id="bibtex_js_menu">
 <a href="#journal">Journal Papers</a> &#124; <a href="#book">Books</a> &#124; <a href="#article">Articles</a> &#124; <a href="#int-conf">Conferences</a> &#124; <a href="#talk">Talks</a> &#124; <a href="#demo">Demo</a> &#124; <a href="#disser">Dissertation</a>

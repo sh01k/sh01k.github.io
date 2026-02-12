@@ -94,6 +94,10 @@ table {
     color: $text-color;
   }
 
+  li a.labpage {
+    color: $link-base-color;
+  }
+
   .dropdown-content {
     background-color: $border-color-light;
     box-shadow: $dropdown-shadow;
@@ -183,3 +187,19 @@ ul.post-tags {
     }
   }
 }
+
+///////// Publications ///////////
+#bibtex_js_menu {
+  margin: 3rem 0rem;
+}
+
+ul#bibtex_js { 
+  font-size: 90%; 
+  margin-bottom: 0.5rem;
+}
+
+#award { 
+  color: $award-color; 
+}
+
+[class="Shoichi Koyama"] {text-decoration: underline;}
