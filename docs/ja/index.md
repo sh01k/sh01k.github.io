@@ -135,10 +135,11 @@ lang: ja
 </table>
 </div>
 
-<p>Reviewer for <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570655" target="_blank" rel="noopener noreferrer">IEEE/ACM Transactions on Audio, Speech, and Language Processing</a>, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=78" target="_blank" rel="noopener noreferrer">IEEE Transactions on Signal Processing</a>, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97" target="_blank" rel="noopener noreferrer">IEEE Signal Processing Letters</a>, <a href="https://pubs.aip.org/asa/jasa" target="_blank" rel="noopener noreferrer">Journal of the Acousitcal Society of America</a>, <a href="https://ieeexplore.ieee.org/xpl/conhome/1000002/all-proceedings" target="_blank" rel="noopener noreferrer">IEEE ICASSP</a>, <a href="https://ieeexplore.ieee.org/xpl/conhome/1000042/all-proceedings" target="_blank" rel="noopener noreferrer">IEEE WASPAA</a>, etc.</p>
+<p>Reviewer for <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10723155" target="_blank" rel="noopener noreferrer">IEEE Transactions on Audio, Speech and Language Processing</a>, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=78" target="_blank" rel="noopener noreferrer">IEEE Transactions on Signal Processing</a>, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97" target="_blank" rel="noopener noreferrer">IEEE Signal Processing Letters</a>, <a href="https://pubs.aip.org/asa/jasa" target="_blank" rel="noopener noreferrer">Journal of the Acousitcal Society of America</a>, <a href="https://ieeexplore.ieee.org/xpl/conhome/1000002/all-proceedings" target="_blank" rel="noopener noreferrer">IEEE ICASSP</a>, <a href="https://ieeexplore.ieee.org/xpl/conhome/1000042/all-proceedings" target="_blank" rel="noopener noreferrer">IEEE WASPAA</a>, etc.</p>
 
 #### 主な受賞
 
+- 富山県ひとづくり財団 とやま賞, 2026. <a href="https://www.t-hito.or.jp/zaidan/toyamashou/announcement_R8.html"><i class="fas fa-external-link-alt"></i></a>
 - 電子情報通信学会, 基礎・境界ソサイエティ 編集活動貢献賞, 2025. <a href="https://www.ieice.org/ess/ESS/ESS_awardee.html" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
 - 船井情報科学振興財団, 研究奨励賞, 2018. <a href="https://www.funaifoundation.jp/grantees/young_awardees_up_to_now_17.html" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
 - 電気通信普及財団, テレコムシステム技術賞 入賞, 2015. <a href="https://www.taf.or.jp/award/telesys/2014.html" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
