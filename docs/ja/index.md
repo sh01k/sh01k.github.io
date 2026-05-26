@@ -139,7 +139,7 @@ lang: ja
 
 #### 主な受賞
 
-- 富山県ひとづくり財団 とやま賞, 2026. <a href="https://www.t-hito.or.jp/zaidan/toyamashou/announcement_R8.html"><i class="fas fa-external-link-alt"></i></a>
+- 富山県ひとづくり財団 とやま賞, 2026. <a href="https://www.t-hito.or.jp/zaidan/toyamashou/announcement_R8.html" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
 - 電子情報通信学会, 基礎・境界ソサイエティ 編集活動貢献賞, 2025. <a href="https://www.ieice.org/ess/ESS/ESS_awardee.html" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
 - 船井情報科学振興財団, 研究奨励賞, 2018. <a href="https://www.funaifoundation.jp/grantees/young_awardees_up_to_now_17.html" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
 - 電気通信普及財団, テレコムシステム技術賞 入賞, 2015. <a href="https://www.taf.or.jp/award/telesys/2014.html" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>
