@@ -5,10 +5,18 @@ permalink: /teaching/
 lang: en
 ---
 
+## AY2026
+
+- **Introduction to Multimedia Information Science**
+    - 27 May (Wed): Introduction to Signal Processing and Machine Learning for Audio and Acoustics
+
+<details markdown="1">
+<summary>Past teaching</summary>
+
 ## AY2025
 
 - **Introduction to Multimedia Information Science**
-    - 14 May (Wed): Introduction to Signal Processing and Machiene Learning for Audio and Acoustics
+    - 14 May (Wed): Introduction to Signal Processing and Machine Learning for Audio and Acoustics
 
 - ~~**Interactive Media**~~ (Canceled)
 
@@ -16,13 +24,10 @@ lang: en
     - 11 Nov. (Tue): Fundamentals of Signal Processing (Part 1) 
     - 18 Nov. (Tue): Fundamentals of Signal Processing (Part 2) 
 
-<details markdown="1">
-<summary>Past teaching</summary>
-
 ## AY2024
 
 - **Introduction to Multimedia Information Science**
-    - 15 May (Wed): Introduction to Signal Processing and Machiene Learning for Audio and Acoustics
+    - 15 May (Wed): Introduction to Signal Processing and Machine Learning for Audio and Acoustics
 
 - **Fundamentals of Media Processing**
     - 19 Nov. (Tue): Fundamentals of Signal Processing (Part 1) 
@@ -31,7 +36,7 @@ lang: en
 ## AY2023
 
 - **Introduction to Multimedia Information Science**
-    - 17 May (Wed): Introduction to Signal Processing and Machiene Learning for Audio and Acoustics
+    - 17 May (Wed): Introduction to Signal Processing and Machine Learning for Audio and Acoustics
 
 - ~~**Interactive Media**~~ (Canceled)
 

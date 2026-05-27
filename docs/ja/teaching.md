@@ -5,10 +5,18 @@ permalink: /ja/teaching/
 lang: ja
 ---
 
+## 2026年度
+
+- **情報メディア概論**
+    - 5/27(水): Introduction to Signal Processing and Machine Learning for Audio and Acoustics
+
+<details markdown="1">
+<summary>過去の講義</summary>
+
 ## 2025年度
 
 - **情報メディア概論**
-    - 5/14(水): Introduction to Signal Processing and Machiene Learning for Audio and Acoustics
+    - 5/14(水): Introduction to Signal Processing and Machine Learning for Audio and Acoustics
 
 - ~~**インタラクティブメディア**~~ （休講）
 
@@ -16,13 +24,10 @@ lang: ja
     - 11/11(火): Fundamentals of Signal Processing (Part 1) 
     - 11/18(火): Fundamentals of Signal Processing (Part 2) 
 
-<details markdown="1">
-<summary>過去の講義</summary>
-
 ## 2024年度
 
 - **情報メディア概論**
-    - 5/15(水): Introduction to Signal Processing and Machiene Learning for Audio and Acoustics
+    - 5/15(水): Introduction to Signal Processing and Machine Learning for Audio and Acoustics
 
 - **メディア処理基礎**
     - 11/19(火): Fundamentals of Signal Processing (Part 1) 
@@ -31,7 +36,7 @@ lang: ja
 ## 2023年度
 
 - **情報メディア概論**
-    - 5/17(水): Introduction to Signal Processing and Machiene Learning for Audio and Acoustics
+    - 5/17(水): Introduction to Signal Processing and Machine Learning for Audio and Acoustics
 
 - ~~**インタラクティブメディア**~~ （休講）
 
