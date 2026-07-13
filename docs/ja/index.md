@@ -96,6 +96,11 @@ lang: ja
 <table>
     <tbody>
     <tr>
+    <td>2026.07 – </td>
+    <td>Associate Editor, Signal Processing Open, Elsevier</td>
+    </tr>
+    <tr>
+    <tr>
     <td>2026.09</td>
     <td>Plenary Lectures Chair, International Workshop on Acoustic Signal Enhancement (IWAENC) 2026</td>
     </tr>

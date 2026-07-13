@@ -81,6 +81,10 @@ Graduate Institute for Advanced Studies <a href="https://www.nii.ac.jp/graduate/
 <table>
     <tbody>
     <tr>
+    <td>2026.07 – </td>
+    <td>Associate Editor, Signal Processing Open, Elsevier</td>
+    </tr>
+    <tr>
     <td>2026.09</td>
     <td>Plenary Lectures Chair, International Workshop on Acoustic Signal Enhancement (IWAENC) 2026</td>
     </tr>
