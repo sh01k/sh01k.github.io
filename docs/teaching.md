@@ -10,6 +10,8 @@ lang: en
 - **Introduction to Multimedia Information Science**
     - 27 May (Wed): Introduction to Signal Processing and Machine Learning for Audio and Acoustics
 
+- ~~**Fundamentals of Media Processing**~~ (Canceled)
+
 <details markdown="1">
 <summary>Past teaching</summary>
 

@@ -10,6 +10,8 @@ lang: ja
 - **情報メディア概論**
     - 5/27(水): Introduction to Signal Processing and Machine Learning for Audio and Acoustics
 
+- ~~**メディア処理基礎**~~ （休講）
+
 <details markdown="1">
 <summary>過去の講義</summary>
 
